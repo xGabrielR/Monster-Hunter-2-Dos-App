@@ -1,0 +1,13 @@
+-|  Monster Hunter 2 Dos Database App  |-
+
+    1. Lista de Quests separadas por Ranks.
+    2. Lista de Monstros e suas caracteristicas.
+    3. Lista de Kitchen Combination separadas por season.
+    4. Lista de Itens *
+
+## References 
+
+Monster Info: https://monsterhunterdos.weebly.com/monsters-carves.html
+MH2DOS Fandom: https://monsterhunter.fandom.com/wiki/Monster_Hunter_2
+Combo List: https://monsterhunter.fandom.com/wiki/MH2:_Combination_List
+
