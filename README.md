@@ -36,4 +36,8 @@
   <li>Item Name Granularity.</li>
 </ul>
 <h2>3. Little Problems Finded</h2>
+<<<<<<< HEAD
 <p>Some missing data and different tables sizes on wiki and need translation from jp wiki.</p>
+=======
+<p>Some missing data and different tables sizes on wiki and need translation from jp wiki.</p>
+>>>>>>> 3579e5701cb97aa55033f3bb0640bab0a572f6fe
