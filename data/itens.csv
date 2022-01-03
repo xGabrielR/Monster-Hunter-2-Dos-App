@@ -1,0 +1,798 @@
+,id,item_name,quantity,rare,buy_price,selling_price
+0,0001,Formulation I Introduction,1,4,1000z,100z
+1,0002,Formulation II Beginner's edition,1,4,2000z,200z
+2,0003,Formulation III Intermediate,1,4,5000z,500z
+3,0004,Formulation IV Advanced Edition,1,5,10000z,1000z
+4,0005,Formulation V Master Edition,1,5,15000z,1500z
+5,0006,Formulation G / Alchemy,1,5,No Sale,2000z
+6,0007,Recovery agents,10,1,66z,7z
+7,0008,Recovery drug Great,10,2,No Sale,16z
+8,0009,Nutritional supplement,5,2,760z,25z
+9,000A,Nutritional supplement Great,5,3,No Sale,92z
+10,000B,Antidote,10,1,60z,6z
+11,000C,Vitalizer,10,3,No Sale,92z
+12,000D,Fast-paced drug,5,2,No Sale,29z
+13,000E,Fast-paced drug Great,5,3,No Sale,205z
+14,000F,Demon medicine,5,4,No Sale,67z
+15,0010,Demon Medicine Great,5,5,No Sale,283z
+16,0011,Superhuman pills,5,1,No Sale,280z
+17,0012,Hardener,5,4,No Sale,58z
+18,0013,Hardener Great,5,5,No Sale,269z
+19,0014,Patience pills,5,1,No Sale,260z
+20,0015,Cooler drink,5,1,300z,30z
+21,0016,Hot drink,5,1,250z,25z
+22,0017,Clairvoyant medicine,3,3,300z,30z
+23,0018,Monster body fluid,99,4,No Sale,500z
+24,0019,Monster juice,99,5,No Sale,1000z
+25,001A,Chinese herbal medicine,10,2,250z,25z
+26,001B,Elixir,2,3,No Sale,210z
+27,001C,Ancient elixir,1,5,No Sale,345z
+28,001D,Enhancer,5,2,480z,48z
+29,001E,Genki Drinko,10,2,No Sale,6z
+30,001F,(dummy),10,5,No Sale,0z
+31,0020,explosive,20,2,222z,22z
+32,0021,Powder of life,10,3,No Sale,59z
+33,0022,Dust of life,3,4,No Sale,315z
+34,0023,Amulet of power,1,5,36000z,3600z
+35,0024,Force claws,1,5,No Sale,6840z
+36,0025,Amulet of protection,1,5,24000z,2400z
+37,0026,Defensive claws,1,5,No Sale,5040z
+38,0027,Capturing anesthetic,10,4,150z,15z
+39,0028,Raw meat,10,1,No Sale,5z
+40,0029,Conditioned meat,10,1,No Sale,12z
+41,002A,Spicy raw meat,10,1,No Sale,20z
+42,002B,Cool raw meat,10,1,No Sale,22z
+43,002C,Poisonous raw meat,10,1,188z,19z
+44,002D,Sweetbread raw meat,10,2,300z,30z
+45,002E,Sleeping raw meat,10,1,315z,32z
+46,002F,Raw grilled meat,10,1,No Sale,3z
+47,0030,Brown meat,10,2,No Sale,48z
+48,0031,Brown meat G,10,3,No Sale,64z
+49,0032,Koge meat,10,1,No Sale,1z
+50,0033,Hot meat,10,1,No Sale,25z
+51,0034,Hot Meat G,10,1,No Sale,30z
+52,0035,Cooler meat,10,1,No Sale,30z
+53,0036,Cooler Meat G,10,1,No Sale,38z
+54,0037,Detoxification meat,10,1,No Sale,20z
+55,0038,Detoxification Meet G,10,1,No Sale,28z
+56,0039,Raw grilled fish,10,1,No Sale,2z
+57,003A,Brown fish,10,2,No Sale,40z
+58,003B,Dark fish dos,10,2,No Sale,60z
+59,003C,Brown fish G,3,3,No Sale,58z
+60,003D,Dark fish dos G,3,3,No Sale,70z
+61,003E,Koge fish,10,1,No Sale,1z
+62,003F,(dummy),10,5,No Sale,0z
+63,0040,boomerang,5,4,150z,15z
+64,0041,Throw knife,5,1,No Sale,0z
+65,0042,Poison throwing knife,5,1,No Sale,0z
+66,0043,Sleep throwing knife,5,1,No Sale,0z
+67,0044,Paralyzed throwing knife,5,1,No Sale,0z
+68,0045,Anesthesia knife for capture,5,4,No Sale,0z
+69,0046,Material ball,30,1,150z,15z
+70,0047,Paintball,99,1,No Sale,10z
+71,0048,Flash jade,5,2,No Sale,57z
+72,0049,Sound bomb,10,2,No Sale,45z
+73,004A,Monster poop,10,1,No Sale,1z
+74,004B,Koyashi ball,10,2,No Sale,9z
+75,004C,Kemuri ball,10,2,No Sale,44z
+76,004D,Poisonous ball,10,2,No Sale,60z
+77,004E,Modori ball,1,3,300z,30z
+78,004F,Deodorant ball,5,2,No Sale,8z
+79,0050,Hemp jade for capture,8,4,No Sale,35z
+80,0051,Cobweb,10,1,60z,6z
+81,0052,Net,10,2,No Sale,54z
+82,0053,Trap tool,2,3,200z,20z
+83,0054,Pit,1,3,No Sale,46z
+84,0055,Sweetbread trap,1,3,320z,160z
+85,0056,Thunder Rod,5,3,No Sale,28z
+86,0057,(dummy),3,5,No Sale,0z
+87,0058,Tal lid,99,5,No Sale,10z
+88,0059,Small tar,10,1,80z,8z
+89,005A,Large Tal,10,2,210z,21z
+90,005B,Small Tal bomb,10,2,156z,16z
+91,005C,Small Tal Bomb G,5,4,No Sale,52z
+92,005D,Large Tal Bomb,3,3,518z,52z
+93,005E,Large Tal Bomb G,2,4,No Sale,80z
+94,005F,Launch Tal Bomb,10,2,180z,18z
+95,0060,Launch Tal Bomb G,10,4,No Sale,68z
+96,0061,Anti-giant dragon bomb,10,3,No Sale,0z
+97,0062,Polytan bomb,10,5,No Sale,50z
+98,0063,Kara no Mi,99,1,2z,1z
+99,0064,Empty bone [small],99,2,30z,3z
+100,0065,Empty bone [Large],99,3,No Sale,5z
+101,0066,LV1 normal bullet,99,1,1z,0z
+102,0067,LV2 normal bullet,99,1,3z,1z
+103,0068,LV3 normal bullet,99,2,5z,2z
+104,0069,LV1 penetrating bullet,60,2,14z,1z
+105,006A,LV2 penetrating bullet,50,2,32z,3z
+106,006B,LV3 penetrating bullet,40,3,52z,5z
+107,006C,LV1 shotgun,60,2,14z,1z
+108,006D,LV2 shotgun,60,2,20z,2z
+109,006E,LV3 shotgun,60,3,27z,3z
+110,006F,LV1 Armor-piercing shell,9,3,41z,4z
+111,0070,LV2 armor-piercing shell,9,3,66z,7z
+112,0071,LV3 armor-piercing shell,9,3,No Sale,7z
+113,0072,LV1 diffusion bullet,3,2,38z,4z
+114,0073,LV2 diffusion bullet,3,3,63z,6z
+115,0074,LV3 diffusion bullet,3,3,No Sale,10z
+116,0075,Flame bullet,60,3,32z,3z
+117,0076,Water-cooled bullet,60,3,32z,3z
+118,0077,Electric shock bullet,60,3,32z,3z
+119,0078,Freezing bullet,60,3,32z,3z
+120,0079,Dragon bullet,20,5,No Sale,24z
+121,007A,LV1 recovery bullet,12,1,8z,2z
+122,007B,LV2 recovery bullet,12,2,21z,2z
+123,007C,LV1 Drugs,12,2,17z,2z
+124,007D,LV2 Drugs,8,3,No Sale,2z
+125,007E,LV1 paralyzed bullet,12,3,26z,3z
+126,007F,LV2 paralyzed bullet,8,4,No Sale,5z
+127,0080,LV1 sleep bullet,12,3,17z,2z
+128,0081,LV2 sleep bullet,8,4,No Sale,3z
+129,0082,Tranquillizer for capture,8,4,No Sale,4z
+130,0083,Paint bullet,99,1,No Sale,6z
+131,0084,Demon bullet,5,3,No Sale,9z
+132,0085,Hardened bullet,5,3,No Sale,7z
+133,0086,(dummy),99,5,No Sale,0z
+134,0087,No bottle,99,1,No Sale,0z
+135,0088,Empty bottle,99,1,5z,1z
+136,0089,Smash bottle,50,2,52z,5z
+137,008A,Poison bottle,20,3,24z,2z
+138,008B,Paralyzed bottle,20,3,54z,5z
+139,008C,Sleep bin,20,3,35z,3z
+140,008D,(dummy),99,5,No Sale,0z
+141,008E,Fishing grasshopper,5,1,10z,1z
+142,008F,Fishing earthworm,10,1,20z,2z
+143,0090,Fishing firefly,20,2,40z,4z
+144,0091,Fishing frog,10,2,No Sale,15z
+145,0092,Magdango,10,2,No Sale,4z
+146,0093,Arodango,10,2,No Sale,7z
+147,0094,Golden dango,5,4,No Sale,30z
+148,0095,Fishing fever,10,3,30z,3z
+149,0096,Boropickel,3,1,60z,6z
+150,0097,Ice ax,4,1,160z,16z
+151,0098,Ice ax great,5,3,240z,24z
+152,0099,Battered insect Ami,3,1,30z,3z
+153,009A,Insect Ami,4,1,80z,8z
+154,009B,Insect Ami Great,5,3,120z,12z
+155,009C,Meat grilled set,1,4,1980z,198z
+156,009D,High-speed meat grill set,1,4,No Sale,1000z
+157,009E,Man's meat grilled set,1,4,No Sale,498z
+158,009F,Female meat grilled set,1,4,4980z,498z
+159,00A0,Cat meat grilled set,1,4,No Sale,498z
+160,00A1,Yorozu-yaki kit,1,4,1280z,128z
+161,00A2,Yorozu-yaki set,1,4,No Sale,350z
+162,00A3,Yorozu-yaki / meat,1,4,No Sale,350z
+163,00A4,Yorozu-yaki / meat,1,4,No Sale,350z
+164,00A5,Yorozu-yaki / meat,1,4,No Sale,350z
+165,00A6,Yorozu-yaki / meat,1,4,No Sale,350z
+166,00A7,Yorozu-yaki / meat,1,4,No Sale,350z
+167,00A8,Yorozu-yaki / fish,1,4,No Sale,350z
+168,00A9,Yorozu-yaki / fish,1,4,No Sale,350z
+169,00AA,(dummy),1,5,No Sale,0z
+170,00AB,(dummy),1,5,No Sale,0z
+171,00AC,Whetstone,20,1,80z,8z
+172,00AD,binoculars,1,1,50z,5z
+173,00AE,Garbage that cannot be collected,99,1,No Sale,1z
+174,00AF,horn,1,2,480z,48z
+175,00B0,Recovery whistle,1,4,No Sale,550z
+176,00B1,Detoxification whistle,1,4,No Sale,520z
+177,00B2,Ghost Flute,1,5,No Sale,1080z
+178,00B3,Hardened flute,1,5,No Sale,986z
+179,00B4,Honey,10,2,90z,45z
+180,00B5,Sungrass,10,2,15z,2z
+181,00B6,Sunflower,10,2,No Sale,2z
+182,00B7,Herbs,10,1,20z,2z
+183,00B8,Detoxification,10,1,20z,2z
+184,00B9,Explosive herbs,20,2,44z,4z
+185,00BA,Ivy leaves,10,1,75z,8z
+186,00BB,Nemuri grass,10,1,50z,5z
+187,00BC,Nenchaku grass,30,1,24z,2z
+188,00BD,Actinidia polygama,10,1,14z,1z
+189,00BE,Cactus flower,10,2,No Sale,10z
+190,00BF,Hundred Flower Cactus,10,4,No Sale,80z
+191,00C0,Capsicum,10,2,44z,4z
+192,00C1,Specialty mushroom,10,5,No Sale,50z
+193,00C2,Carefully selected mushrooms,10,5,No Sale,100z
+194,00C3,Aged mushroom,10,5,No Sale,70z
+195,00C4,Blue mushroom,10,2,24z,2z
+196,00C5,Nitrodake,20,2,60z,6z
+197,00C6,Mahidake,10,3,150z,15z
+198,00C7,Poison Amanita,10,2,75z,8z
+199,00C8,Pounding mushroom,10,3,No Sale,18z
+200,00C9,Mandragora,10,3,400z,40z
+201,00CA,Specialty mushroom kimchi,5,3,No Sale,54z
+202,00CB,Gekiretsu Poison Tengu,10,3,No Sale,80z
+203,00CC,Seven-colored dandelions,99,4,No Sale,150z
+204,00CD,Fruit of paint,99,1,No Sale,6z
+205,00CE,Seeds of superhuman strength,10,2,280z,140z
+206,00CF,Seeds of patience,10,2,220z,110z
+207,00D0,Dragon killing fruit,2,2,No Sale,78z
+208,00D1,Popping walnuts,30,2,82z,4z
+209,00D2,Hari fruit,99,1,22z,1z
+210,00D3,Kakusan fruit,10,2,120z,12z
+211,00D4,Seashells,10,2,No Sale,30z
+212,00D5,Black pearl,99,4,No Sale,50z
+213,00D6,Sunshine Stone,99,2,No Sale,75z
+214,00D7,Stones,99,1,No Sale,1z
+215,00D8,Iron ore,99,4,No Sale,60z
+216,00D9,Crystal of the earth,99,4,No Sale,80z
+217,00DA,Malachite ore,99,5,No Sale,160z
+218,00DB,Draglite ore,99,5,No Sale,480z
+219,00DC,Cabrelite ore,99,5,No Sale,680z
+220,00DD,Union ore,99,5,No Sale,320z
+221,00DE,Red lotus stone,99,5,No Sale,860z
+222,00DF,(dummy),99,5,No Sale,0z
+223,00E0,Burning coal,10,3,No Sale,120z
+224,00E1,Light crystal,99,5,No Sale,1150z
+225,00E2,Nova Crystal,99,5,No Sale,2440z
+226,00E3,Antibacterial stone,10,3,No Sale,183z
+227,00E4,Ice crystals,20,2,No Sale,60z
+228,00E5,(dummy),10,5,No Sale,0z
+229,00E6,Dos Biscus,99,5,No Sale,1000z
+230,00E7,Ale nuts,99,5,No Sale,950z
+231,00E8,Ambal ore,99,5,No Sale,1100z
+232,00E9,Secret pouch,10,4,No Sale,100z
+233,00EA,Killeaji,10,1,135z,45z
+234,00EB,Sashimiuo,10,1,90z,45z
+235,00EC,Sleeping fish,10,2,No Sale,45z
+236,00ED,Hari tuna,30,1,190z,50z
+237,00EE,Popping squid,30,2,38z,15z
+238,00EF,Kakusan Demekin,10,4,No Sale,150z
+239,00F0,Haretsu Arowana,10,4,No Sale,45z
+240,00F1,Bakuretsu Arowana,10,4,No Sale,135z
+241,00F2,Doschireaji,5,3,No Sale,70z
+242,00F3,Dos sleep fish,5,4,No Sale,60z
+243,00F4,Doshari tuna,5,4,No Sale,100z
+244,00F5,Dos popping squid,5,4,No Sale,50z
+245,00F6,Dos Arowana,5,4,No Sale,150z
+246,00F7,Gluttony tuna,10,4,No Sale,13z
+247,00F8,Dos Gluttony Tuna,5,5,No Sale,23z
+248,00F9,Golden fish,10,4,No Sale,200z
+249,00FA,Marlin tuna,10,5,No Sale,1000z
+250,00FB,Small goldfish,10,4,No Sale,110z
+251,00FC,Platinum fish,10,5,No Sale,770z
+252,00FD,Ancient fish,99,5,No Sale,1500z
+253,00FE,Queen shrimp,99,4,No Sale,880z
+254,00FF,Dead insect,10,1,10z,1z
+255,0100,Yamai caterpillar,99,1,30z,3z
+256,0101,Kakubata,99,1,60z,6z
+257,0102,Tsuchihachinoko,99,1,300z,30z
+258,0103,Immortal,10,4,420z,210z
+259,0104,Insects,10,1,No Sale,2z
+260,0105,Light bug,10,2,No Sale,48z
+261,0106,Thunder bug,99,4,No Sale,350z
+262,0107,Royal canabun,99,4,No Sale,800z
+263,0108,Norikone grasshopper,99,5,No Sale,120z
+264,0109,(dummy),1,5,No Sale,0z
+265,010A,Kira beetle,99,4,No Sale,500z
+266,010B,Malekogane,99,5,No Sale,1000z
+267,010C,Royal Kabuto,10,2,No Sale,200z
+268,010D,Jango green onion,99,2,50z,5z
+269,010E,Sliced cactus,99,2,100z,10z
+270,010F,Rare onion,99,3,250z,25z
+271,0110,Shimofuri tomato,99,3,450z,45z
+272,0111,Onimatsutake,99,4,No Sale,98z
+273,0112,Warmill wheat,99,1,80z,8z
+274,0113,Mixed beans,99,2,150z,15z
+275,0114,Stubborn bread,99,2,350z,35z
+276,0115,Gin Shari grass,99,3,560z,56z
+277,0116,Ancient beans,99,5,No Sale,88z
+278,0117,White lever,99,2,100z,10z
+279,0118,Poponotan,99,3,200z,20z
+280,0119,Full baby pickles,99,3,No Sale,38z
+281,011A,Gabribulose,99,4,No Sale,55z
+282,011B,Ryunotail,99,5,No Sale,200z
+283,011C,Onpuuo,99,2,30z,3z
+284,011D,Snake salmon,99,4,280z,28z
+285,011E,Rice bug,99,2,30z,3z
+286,011F,Spice worm,99,3,400z,40z
+287,0120,Honey dragonfly,99,3,No Sale,66z
+288,0121,Dos Hercules,99,5,No Sale,118z
+289,0122,Red oil,99,2,100z,10z
+290,0123,Power lard,99,3,400z,40z
+291,0124,Longevity jam,99,4,980z,98z
+292,0125,Dry margarine,99,2,100z,10z
+293,0126,Bull butter,99,3,400z,40z
+294,0127,Royal cheese,99,4,880z,88z
+295,0128,Hopi liquor,99,2,300z,30z
+296,0129,Breath wine,99,3,600z,60z
+297,012A,Golden taro wine,99,5,1280z,128z
+298,012B,Monster egg,99,3,No Sale,77z
+299,012C,Pig rice cracker,99,1,10z,1z
+300,012D,(dummy),99,5,No Sale,0z
+301,012E,Vocal sac,99,4,150z,15z
+302,012F,Poison bag,99,4,No Sale,96z
+303,0130,Paralysis bag,99,4,No Sale,120z
+304,0131,(dummy),99,5,No Sale,0z
+305,0132,Sleeping bag,99,4,No Sale,340z
+306,0133,(dummy),99,5,No Sale,0z
+307,0134,Flame bag,99,4,No Sale,240z
+308,0135,Electric bag,99,4,No Sale,480z
+309,0136,Frenzy extract,20,3,No Sale,56z
+310,0137,Albino extract,20,3,No Sale,122z
+311,0138,Keel [Small],99,3,100z,10z
+312,0139,Keel [Middle],99,4,No Sale,210z
+313,013A,Keel [Large],99,5,No Sale,440z
+314,013B,Keel,99,5,No Sale,560z
+315,013C,Ancient keel,99,4,No Sale,880z
+316,013D,Mysterious bone,99,1,No Sale,1z
+317,013E,Mysterious skull,99,4,No Sale,120z
+318,013F,Master Skull,99,5,No Sale,1250z
+319,0140,Rod-shaped bone,99,1,No Sale,15z
+320,0141,Big bone,99,4,No Sale,50z
+321,0142,Dragon fangs,99,3,58z,6z
+322,0143,Dragon claw,50,3,180z,18z
+323,0144,Dragon ball,50,4,No Sale,6000z
+324,0145,Dragon Namida,10,5,No Sale,500z
+325,0146,Territory Poop,10,5,No Sale,500z
+326,0147,Yad pearl,10,5,No Sale,500z
+327,0148,Dragon Secret Treasure,10,5,No Sale,800z
+328,0149,Decayed dragon scales,99,5,No Sale,320z
+329,014A,Longyueshi,10,5,No Sale,500z
+330,014B,Moss moss skin,99,4,No Sale,36z
+331,014C,Moss head,99,4,No Sale,12z
+332,014D,Fango fur,50,1,No Sale,40z
+333,014E,Fango's head,99,4,No Sale,130z
+334,014F,Large boar skin,99,3,No Sale,100z
+335,0150,Hard skin of wild boar,99,4,No Sale,200z
+336,0151,Kerubi horn,99,4,520z,52z
+337,0152,Kerubi skin,50,1,No Sale,24z
+338,0153,Gausika fur,99,3,No Sale,35z
+339,0154,Gausika horn,99,4,No Sale,58z
+340,0155,Lampos Fang,99,2,82z,15z
+341,0156,Lampos scales,50,3,No Sale,40z
+342,0157,Scales of Lampos,99,5,No Sale,120z
+343,0158,Lampos skin,50,3,No Sale,28z
+344,0159,Doslanpos skin,50,5,No Sale,240z
+345,015A,Doslanpos claws,99,5,No Sale,200z
+346,015B,Lampos claws,99,5,No Sale,550z
+347,015C,Dos Lampos's head,99,5,No Sale,560z
+348,015D,Lampos white scales,99,5,No Sale,360z
+349,015E,Lampos white skin,99,5,No Sale,252z
+350,015F,Genepos paralyzed fangs,99,2,80z,35z
+351,0160,Genepos scales,50,3,No Sale,40z
+352,0161,Scales of Genepos,99,5,No Sale,180z
+353,0162,Genepos skin,50,3,No Sale,28z
+354,0163,Dosgenepos skin,99,4,No Sale,560z
+355,0164,Dosgenepos's head,99,4,No Sale,880z
+356,0165,Eos's poisonous fangs,99,2,50z,25z
+357,0166,Eos scales,50,3,No Sale,40z
+358,0167,Eos scales,99,5,No Sale,240z
+359,0168,Eos skin,50,3,No Sale,28z
+360,0169,Doseos skin,99,4,No Sale,560z
+361,016A,Doseos's head,99,4,No Sale,770z
+362,016B,Phantom bird scales,99,4,1500z,150z
+363,016C,Phantom bird shell,99,4,No Sale,345z
+364,016D,Phantom bird's hard shell,99,5,No Sale,690z
+365,016E,Phantom bird ears,99,5,No Sale,1280z
+366,016F,Phantom bird hell ears,99,5,No Sale,1600z
+367,0170,Giant beak,99,5,No Sale,1500z
+368,0171,A fine beak,99,5,No Sale,2250z
+369,0172,Patagium of a monster bird,99,4,No Sale,650z
+370,0173,Blue monster scales,99,5,No Sale,400z
+371,0174,Blue monster shell,99,5,No Sale,550z
+372,0175,Blue monster's hard shell,99,5,No Sale,1380z
+373,0176,Rubbery skin,99,4,No Sale,370z
+374,0177,Rubbery epithelium,99,5,No Sale,740z
+375,0178,Poisonous monster head,99,5,No Sale,2200z
+376,0179,Rubbery purple skin,99,5,No Sale,620z
+377,017A,Purple wings of poisonous monster bird,99,5,No Sale,2300z
+378,017B,Ichthyosaur Kimo,10,3,No Sale,300z
+379,017C,Ichthyosaur fangs,99,4,No Sale,250z
+380,017D,Water dragon scales,99,4,No Sale,480z
+381,017E,Water dragon scales,99,5,No Sale,1780z
+382,017F,Water dragon fin,99,5,No Sale,820z
+383,0180,Scales of Midori Ryu,99,5,No Sale,2560z
+384,0181,Midori Ryu's fin,99,5,No Sale,3280z
+385,0182,Sand dragon scales,99,4,No Sale,400z
+386,0183,Scales of sand dragon,99,5,No Sale,1440z
+387,0184,Sand dragon fin,99,5,No Sale,550z
+388,0185,Sand dragon top fin,99,5,No Sale,1050z
+389,0186,Purple scales of sand dragon,99,5,No Sale,2400z
+390,0187,Sand dragon peach fin,99,5,No Sale,2750z
+391,0188,Female fire dragon scales,99,4,No Sale,490z
+392,0189,Female fire dragon scales,99,5,No Sale,1470z
+393,018A,Reverse scale of female fire dragon,99,5,No Sale,4850z
+394,018B,Red ball of female fire dragon,99,5,No Sale,9700z
+395,018C,Female Fire Dragon Shell,99,4,No Sale,650z
+396,018D,Female Fire Dragon's Hard Shell,99,5,No Sale,1950z
+397,018E,Female Fire Dragon Thorn,99,5,No Sale,300z
+398,018F,Upper spine of female fire dragon,99,5,No Sale,1000z
+399,0190,Cherry fire dragon scales,99,5,No Sale,735z
+400,0191,Cherry fire dragon scales,99,5,No Sale,2450z
+401,0192,Cherry Fire Dragon Shell,99,5,No Sale,975z
+402,0193,Cherry fire dragon's hard shell,99,5,No Sale,3250z
+403,0194,Gold fire dragon scales,99,5,No Sale,2200z
+404,0195,Gold Fire Dragon's Hard Shell,99,5,No Sale,3900z
+405,0196,Fire Dragon Wing Claw,99,4,No Sale,600z
+406,0197,Fire Dragon Bone Marrow,99,5,No Sale,2100z
+407,0198,Fire dragon scales,99,4,No Sale,490z
+408,0199,Fire dragon scales,99,5,No Sale,1470z
+409,019A,Fire dragon's reverse scale,99,5,No Sale,4850z
+410,019B,Fire Dragon Red Ball,99,5,No Sale,9700z
+411,019C,Fire dragon shell,99,4,No Sale,650z
+412,019D,Fire dragon's hard shell,99,5,No Sale,1950z
+413,019E,Fire dragon tail,99,5,No Sale,1200z
+414,019F,Fire Dragon Patagium,99,4,No Sale,880z
+415,01A0,Fire Dragon Wings,99,5,No Sale,2550z
+416,01A1,Blue fire dragon scales,99,5,No Sale,735z
+417,01A2,Blue fire dragon scales,99,5,No Sale,1960z
+418,01A3,Blue Fire Dragon Shell,99,5,No Sale,975z
+419,01A4,Blue Fire Dragon's Hard Shell,99,5,No Sale,2600z
+420,01A5,Blue Fire Dragon Tail,99,5,No Sale,1800z
+421,01A6,Blue Fire Dragon Wings,99,5,No Sale,5100z
+422,01A7,Silver fire dragon scales,99,5,No Sale,2200z
+423,01A8,Silver fire dragon's hard shell,99,5,No Sale,3900z
+424,01A9,Silver fire dragon tail,99,5,No Sale,4800z
+425,01AA,Silver Fire Dragon Patagium,99,5,No Sale,3520z
+426,01AB,Silver Fire Dragon Wings,99,5,No Sale,10200z
+427,01AC,Buyobuyo skin,99,4,No Sale,760z
+428,01AD,Pearl-colored soft leather,99,5,No Sale,1520z
+429,01AE,Albino drop,99,5,No Sale,2380z
+430,01AF,Albino marbling,99,5,No Sale,3580z
+431,01B0,Enchanting colored soft skin,99,5,No Sale,1620z
+432,01B1,Enchanting color patagium,99,5,No Sale,2400z
+433,01B2,Rock dragon shell,99,4,No Sale,440z
+434,01B3,Rock dragon's hard shell,99,5,No Sale,2200z
+435,01B4,Rock Dragon Wings,99,5,No Sale,1420z
+436,01B5,Bone marrow of ankylosauria,99,5,No Sale,2200z
+437,01B6,Ankylosauria shell,99,4,No Sale,970z
+438,01B7,Ankylosauria's hard shell,99,5,No Sale,1880z
+439,01B8,Skull of ankylosauria,99,5,No Sale,2550z
+440,01B9,Black armor dragon shell,99,5,No Sale,3760z
+441,01BA,Black armor dragon's hard shell,99,5,No Sale,5640z
+442,01BB,Black armor dragon skull,99,5,No Sale,7650z
+443,01BC,Twisted corner,99,4,No Sale,780z
+444,01BD,Fine twisted horns,99,5,No Sale,2400z
+445,01BE,Weapon dragon shell,99,4,No Sale,850z
+446,01BF,Weapon Dragon's Hard Shell,99,5,No Sale,1950z
+447,01C0,Kakuryu's back,99,5,No Sale,1340z
+448,01C1,Kakuryu's hard armor,99,5,No Sale,4020z
+449,01C2,Kakuryu's tail,99,5,No Sale,1280z
+450,01C3,Weapon Dragon Fang,99,4,No Sale,650z
+451,01C4,Black winding angle,99,5,No Sale,9600z
+452,01C5,Black dragon shell,99,5,No Sale,1900z
+453,01C6,Black horn dragon's back,99,5,No Sale,4040z
+454,01C7,Black horn dragon tail,99,5,No Sale,3680z
+455,01C8,Black Weapon Dragon's Hard Shell,99,5,No Sale,3280z
+456,01C9,Queen insect tail,99,5,No Sale,1800z
+457,01CA,Crustacean of Langosta,99,4,No Sale,120z
+458,01CB,Langosta's hard shell,99,5,No Sale,240z
+459,01CC,Langosta feathers,99,4,No Sale,73z
+460,01CD,Langosta's thin feathers,99,4,No Sale,256z
+461,01CE,Kantharos crustacean,99,4,No Sale,120z
+462,01CF,Kantharos head,99,4,No Sale,175z
+463,01D0,Kantharos feathers,99,4,No Sale,73z
+464,01D1,Kantharos's thin feathers,99,5,No Sale,256z
+465,01D2,Shrimp shell,99,5,No Sale,1500z
+466,01D3,Shrimp shell,99,5,No Sale,2500z
+467,01D4,Giant shrimp shell,99,5,No Sale,3500z
+468,01D5,Amezari shell,99,5,No Sale,3000z
+469,01D6,Crimson horn,99,5,No Sale,1520z
+470,01D7,Narwhal dragon shell,99,4,No Sale,650z
+471,01D8,The back of a dragon,99,5,No Sale,1340z
+472,01D9,Monobroth Heart,10,5,No Sale,10000z
+473,01DA,Silver horn,99,5,No Sale,2280z
+474,01DB,White narwhal dragon shell,99,5,No Sale,975z
+475,01DC,White narwhal dragon's back,99,5,No Sale,2010z
+476,01DD,Giraffe's thunder angle,99,5,No Sale,2200z
+477,01DE,Giraffe skin,99,5,No Sale,3250z
+478,01DF,Giraffe epithelium,99,5,No Sale,5000z
+479,01E0,Giraffe mane,99,5,No Sale,1200z
+480,01E1,Giraffe's thunder tail,99,5,No Sale,4500z
+481,01E2,Giraffe's blue angle,99,5,No Sale,5500z
+482,01E3,Large claws of the old mountain dragon,99,5,No Sale,1920z
+483,01E4,Old mountain dragon horn,99,5,No Sale,1700z
+484,01E5,Scales of the old mountain dragon,99,5,No Sale,650z
+485,01E6,Old mountain dragon's red ball,99,5,No Sale,20000z
+486,01E7,Old mountain dragon shell,99,5,No Sale,900z
+487,01E8,Old mountain dragon's hard shell,99,5,No Sale,2700z
+488,01E9,The blue angle of the old mountain dragon,99,5,No Sale,5100z
+489,01EA,Old mountain dragon's blue shell,99,5,No Sale,3375z
+490,01EB,Black dragon horn,99,5,No Sale,1088z
+491,01EC,Black dragon scales,99,5,No Sale,1068z
+492,01ED,Black dragon crustacean,99,5,No Sale,1395z
+493,01EE,Black dragon's eyes,99,5,No Sale,9600z
+494,01EF,Black Dragon Patagium,99,5,No Sale,1965z
+495,01F0,Red horn of the black dragon,99,5,No Sale,6528z
+496,01F1,Black dragon red scale,99,5,No Sale,4272z
+497,01F2,Black dragon's red husk,99,5,No Sale,5580z
+498,01F3,Black Dragon's Evil Eye,99,5,No Sale,25000z
+499,01F4,Red wing of the black dragon,99,5,No Sale,7860z
+500,01F5,White scales of the ancestor dragon,99,5,No Sale,8852z
+501,01F6,Soryu's hard shell,99,5,No Sale,10230z
+502,01F7,Soryu's wing membrane,99,5,No Sale,9900z
+503,01F8,Weapon of the ancestor dragon,99,5,No Sale,12300z
+504,01F9,(dummy),99,5,No Sale,0z
+505,01FA,(dummy),99,5,No Sale,0z
+506,01FB,Pointed nails,99,3,No Sale,120z
+507,01FC,Snow lion fangs,99,5,No Sale,1350z
+508,01FD,Snow lion's sharp fangs,99,5,No Sale,2150z
+509,01FE,Snow lion hair,99,4,No Sale,80z
+510,01FF,Snow lion bristles,99,4,No Sale,250z
+511,0200,Snow lion mustache,99,5,No Sale,820z
+512,0201,Snow lion tail,99,5,No Sale,980z
+513,0202,Peach hair beast hair,99,4,No Sale,75z
+514,0203,Brightly colored hair,99,5,No Sale,980z
+515,0204,Peach hair beast claws,99,4,No Sale,880z
+516,0205,Peach hair beast fangs,99,5,No Sale,770z
+517,0206,Bristles of the peach hair beast,99,5,No Sale,180z
+518,0207,Peach hair beast's claws,99,5,No Sale,1500z
+519,0208,(dummy),99,5,No Sale,0z
+520,0209,Gold lion's sharp angle,99,5,No Sale,3200z
+521,020A,Gold lion's sharp fangs,99,5,No Sale,1500z
+522,020B,Gold lion black hair,99,5,No Sale,1200z
+523,020C,Gold lion's claws,99,5,No Sale,2200z
+524,020D,Gold lion tail,99,5,No Sale,4500z
+525,020E,Golden hair,99,5,No Sale,8880z
+526,020F,Zazamiso,10,2,No Sale,50z
+527,0210,Crown shell,99,4,No Sale,780z
+528,0211,Shield crab shell,99,2,No Sale,45z
+529,0212,Shield crab shell,99,4,No Sale,550z
+530,0213,Shield crab claw,99,4,No Sale,1350z
+531,0214,Shield crab hard shell,99,4,No Sale,1050z
+532,0215,Shield crab claw,99,5,No Sale,1950z
+533,0216,(dummy),99,5,No Sale,0z
+534,0217,Sickle crab shell,99,2,No Sale,55z
+535,0218,Sickle crab shell,99,4,No Sale,720z
+536,0219,Sickle crab shell,99,4,No Sale,2500z
+537,021A,Sickle crab leg,99,4,No Sale,750z
+538,021B,Sickle crab chela,99,4,No Sale,1800z
+539,021C,Sickle crab claw,99,4,No Sale,1200z
+540,021D,Sickle crab claw,99,5,No Sale,3500z
+541,021E,(dummy),99,5,No Sale,0z
+542,021F,Fort crab shell,99,5,No Sale,1400z
+543,0220,Fort crab back,99,5,No Sale,3000z
+544,0221,Fort crab scissors,99,5,No Sale,2150z
+545,0222,Fort crab claws,99,5,No Sale,3200z
+546,0223,(dummy),99,5,No Sale,0z
+547,0224,Steel Dragon Shell,99,5,No Sale,1300z
+548,0225,Steel dragon's hard shell,99,5,No Sale,3200z
+549,0226,Steel dragon scales,99,5,No Sale,800z
+550,0227,Steel Dragon Patagium,99,5,No Sale,1800z
+551,0228,Steel Dragon Weapon,99,5,No Sale,2450z
+552,0229,Steel dragon tail,99,5,No Sale,2250z
+553,022A,Steel Dragon Claw,99,5,No Sale,2100z
+554,022B,Steel Dragon's Claw,99,5,No Sale,3600z
+555,022C,Steel Dragon Jewel,99,5,No Sale,4000z
+556,022D,Rusted shell,99,5,No Sale,1000z
+557,022E,Decayed dragon wings,99,5,No Sale,1500z
+558,022F,Rusted dragon wings,99,5,No Sale,2800z
+559,0230,Kasumi Dragon Skin,99,5,No Sale,1250z
+560,0231,Kasumi Dragon Epithelium,99,5,No Sale,1840z
+561,0232,Kasumi Dragon Weapon,99,5,No Sale,2680z
+562,0233,Kasumi Dragon's Weapon,99,5,No Sale,3220z
+563,0234,Kasumi Dragon's Claw,99,5,No Sale,2800z
+564,0235,Kasumi Dragon's wing membrane,99,5,No Sale,1760z
+565,0236,Kasumi Dragon's Tail,99,5,No Sale,3800z
+566,0237,Kasumi Dragon's Jewel,99,5,No Sale,4000z
+567,0238,(dummy),99,5,No Sale,0z
+568,0239,Dragon scales of flame,99,5,No Sale,1050z
+569,023A,Flame Dragon Claw,99,5,No Sale,1200z
+570,023B,Flame Dragon Dust,99,5,No Sale,3250z
+571,023C,Flame Dragon Jewel,99,5,No Sale,4000z
+572,023D,Gu Long Blood,99,5,No Sale,1500z
+573,023E,Dragon scales of prison flame,99,5,No Sale,1800z
+574,023F,Flame Princess Dragon Shell,99,5,No Sale,1800z
+575,0240,Mane of the Flame Princess Dragon,99,5,No Sale,1900z
+576,0241,The wing membrane of the Flame Princess Dragon,99,5,No Sale,1600z
+577,0242,Flame Princess Dragon's Tail,99,5,No Sale,2500z
+578,0243,Flame Princess Dragon Weapon,99,5,No Sale,2000z
+579,0244,(dummy),99,5,No Sale,0z
+580,0245,Flame King Dragon Shell,99,5,No Sale,1800z
+581,0246,Flame King Dragon's Hard Shell,99,5,No Sale,3200z
+582,0247,Mane of the Flame King Dragon,99,5,No Sale,1900z
+583,0248,Flame King Dragon's wing membrane,99,5,No Sale,1600z
+584,0249,Flame King Dragon's Tail,99,5,No Sale,2500z
+585,024A,Flame King Dragon Weapon,99,5,No Sale,2000z
+586,024B,Flame King Dragon's Weapon,99,5,No Sale,2800z
+587,024C,Ukidake Dragon's fin,99,5,No Sale,2500z
+588,024D,Ukidake dragon skin,99,5,No Sale,1580z
+589,024E,Ukidake dragon's body fluid,99,5,No Sale,2500z
+590,024F,Dragon moss,99,5,No Sale,3050z
+591,0250,Dragon Wood,99,5,No Sale,2135z
+592,0251,(dummy),99,5,No Sale,0z
+593,0252,Snake dragon skin,99,4,No Sale,180z
+594,0253,Snake dragon epithelium,99,4,No Sale,450z
+595,0254,Striped skin,99,4,No Sale,290z
+596,0255,Snake dragon head,99,4,No Sale,750z
+597,0256,Black wolf bird scales,99,4,No Sale,400z
+598,0257,Black wolf bird shell,99,4,No Sale,650z
+599,0258,Black wolf bird ears,99,4,No Sale,1500z
+600,0259,Pointed beak,99,4,No Sale,1800z
+601,025A,Black wolf bird wings,99,4,No Sale,1950z
+602,025B,Black wolf bird tail,99,4,No Sale,1500z
+603,025C,Black wolf bird mane,99,4,No Sale,1800z
+604,025D,Lost and found umbrella,99,5,No Sale,1240z
+605,025E,Village head's old sword,1,5,No Sale,1000z
+606,025F,Stone statue fist,99,4,No Sale,1880z
+607,0260,Broken dragon spear,99,4,No Sale,1530z
+608,0261,Chain of strong arms,1,5,No Sale,120z
+609,0262,Bonus reward,1,5,No Sale,0z
+610,0263,Rusty mass,1,5,No Sale,180z
+611,0264,Rust plate-shaped mass,1,5,No Sale,180z
+612,0265,Large rusty mass,1,5,No Sale,180z
+613,0266,Rusty little lump,1,5,No Sale,180z
+614,0267,Rusty rod-shaped mass,1,5,No Sale,180z
+615,0268,Ancient mass,1,5,No Sale,360z
+616,0269,Ancient plate-shaped mass,1,5,No Sale,360z
+617,026A,A large ancient mass,1,5,No Sale,360z
+618,026B,Ancient small chunks,1,5,No Sale,360z
+619,026C,Ancient rod-shaped mass,1,5,No Sale,360z
+620,026D,Book of good storage and skill,1,4,3000z,0z
+621,026E,Book of good storage and power,1,5,10000z,0z
+622,026F,Good remodeling and craftsmanship,1,4,20000z,0z
+623,0270,Good at remodeling and skill of money,1,5,30000z,0z
+624,0271,Book of therianthropy,1,1,100z,0z
+625,0272,Book of Chachabu,1,1,100z,0z
+626,0273,Book of beetle species,1,1,100z,0z
+627,0274,Book of Great Thunder Insects,1,1,100z,0z
+628,0275,Book of herbivorous species,1,1,100z,0z
+629,0276,Book of bird dragon species,1,1,200z,0z
+630,0277,Book of Yangar Luga,1,1,No Sale,0z
+631,0278,Book of Flying Dragon [Volume 1],1,1,200z,0z
+632,0279,Book of Flying Dragon [Volume 2],1,2,200z,0z
+633,027A,Book of Rio Leus,1,2,200z,0z
+634,027B,Book of Monobros,1,2,200z,0z
+635,027C,Book of ichthyosaur species,1,2,200z,0z
+636,027D,Book of Crustacean [Volume 1],1,2,200z,0z
+637,027E,Book of Crustacean [Volume 2],1,2,200z,0z
+638,027F,Book of Shenga Oren,1,3,No Sale,0z
+639,0280,Book of Fang Beast Species,1,3,200z,0z
+640,0281,Book of Dodo Blanco,1,3,200z,0z
+641,0282,Rajan's Book,1,3,500z,0z
+642,0283,Giraffe's book,1,3,500z,0z
+643,0284,Book of Kushaldaora,1,3,500z,0z
+644,0285,Book of Onazuchi,1,3,500z,0z
+645,0286,Book of Nana Tescatri,1,3,500z,0z
+646,0287,Book of Theo Tescatl,1,3,500z,0z
+647,0288,Book of Lao Shanlong,1,3,500z,0z
+648,0289,Book of Yamatsukami,1,3,No Sale,0z
+649,028A,Book of Miraboreas,1,3,No Sale,0z
+650,028B,(dummy),1,5,No Sale,0z
+651,028C,(dummy),1,5,No Sale,0z
+652,028D,(dummy),1,5,No Sale,0z
+653,028E,(dummy),1,5,No Sale,0z
+654,028F,Silver egg,10,5,No Sale,5000z
+655,0290,Gold egg,5,5,No Sale,10000z
+656,0291,map,1,1,No Sale,0z
+657,0292,First aid,10,1,No Sale,0z
+658,0293,Mobile food,10,1,No Sale,0z
+659,0294,Mobile meat grilled set,1,1,No Sale,0z
+660,0295,Portable whetstone,10,1,No Sale,0z
+661,0296,Mobile phone trap,1,3,No Sale,0z
+662,0297,Flash ball for exclusive use of supply,5,2,No Sale,0z
+663,0298,Elixir for exclusive use,3,2,No Sale,0z
+664,0299,Pit for supply only,1,3,No Sale,0z
+665,029A,Large Tal bomb for supply,2,3,No Sale,0z
+666,029B,Ballista bullets,10,5,No Sale,0z
+667,029C,Cannon bullet,1,5,No Sale,0z
+668,029D,Wyvern,10,1,No Sale,0z
+669,029E,Flying dragon egg,1,5,No Sale,0z
+670,029F,Herbivorous dragon egg,1,5,No Sale,0z
+671,02A0,Carnivorous dragon egg,1,5,No Sale,0z
+672,02A1,Rough ash crystal,1,5,No Sale,0z
+673,02A2,Rough white crystal,1,5,No Sale,0z
+674,02A3,Gunpowder rock,1,5,No Sale,0z
+675,02A4,Full full baby,1,5,No Sale,156z
+676,02A5,Full baby ice cream,10,5,No Sale,500z
+677,02A6,Guild flag,1,3,No Sale,0z
+678,02A7,Leftover food in the city,10,2,No Sale,0z
+679,02A8,Strange hood,10,4,No Sale,100z
+680,02A9,Giant dragon hood,10,5,No Sale,100z
+681,02AA,Strong dragon hood,10,5,No Sale,100z
+682,02AB,Dragon hood,10,4,No Sale,5z
+683,02AC,"Dragon hood, extreme",10,5,No Sale,100z
+684,02AD,Red dragon food,10,4,No Sale,50z
+685,02AE,Midori no Ryu Food,10,4,No Sale,50z
+686,02AF,Blue dragon hood,10,4,No Sale,50z
+687,02B0,Bullet whistle,1,4,No Sale,10z
+688,02B1,Assault whistle,1,4,No Sale,10z
+689,02B2,Tail whistle,1,4,No Sale,10z
+690,02B3,Bite Flute,1,4,No Sale,10z
+691,02B4,Special flute,1,4,No Sale,10z
+692,02B5,Anger whistle,1,4,No Sale,0z
+693,02B6,Inverse scale flute,1,4,No Sale,10z
+694,02B7,Key of the dragon spear,10,2,No Sale,0z
+695,02B8,Fighting party ticket,5,5,No Sale,0z
+696,02B9,(dummy),3,5,No Sale,0z
+697,02BA,Sleeping ball,10,2,No Sale,0z
+698,02BB,Sedative ball,10,2,No Sale,0z
+699,02BC,Recovery ball,10,2,No Sale,0z
+700,02BD,A song that harbors the soul,99,4,No Sale,500z
+701,02BE,Song to the spirits,99,4,No Sale,500z
+702,02BF,A song dedicated to life,99,4,No Sale,500z
+703,02C0,The beginning song,99,5,No Sale,1000z
+704,02C1,Hunting whistle sheet music,1,4,300z,30z
+705,02C2,Sheet music of old hunting whistle,1,4,800z,80z
+706,02C3,White obi coin,99,4,No Sale,50z
+707,02C4,Black obi coin,99,4,No Sale,100z
+708,02C5,Tatsujin coin,99,4,No Sale,500z
+709,02C6,Bird dragon coin,99,4,No Sale,550z
+710,02C7,Flying dragon coin,99,4,No Sale,1000z
+711,02C8,Ichthyosaur coin,99,4,No Sale,750z
+712,02C9,Fang beast coin,99,4,No Sale,1250z
+713,02CA,Crustacean coin,99,4,No Sale,1500z
+714,02CB,Gu Long coin,99,4,No Sale,5000z
+715,02CC,Eternal coin,99,4,No Sale,1000z
+716,02CD,Gorgeous coins,99,4,No Sale,1250z
+717,02CE,Solid coin,99,4,No Sale,500z
+718,02CF,Guild coin,99,5,No Sale,5000z
+719,02D0,Compass to the unexplored region,1,5,No Sale,300z
+720,02D1,Map to the unexplored region,1,5,No Sale,100z
+721,02D2,Five tools for unexplored regions,1,5,No Sale,500z
+722,02D3,Unexplored set,1,5,No Sale,3000z
+723,02D4,Book of the end,1,5,No Sale,200z
+724,02D5,Legendary book,1,5,No Sale,150z
+725,02D6,Book of Gu Long,1,5,No Sale,500z
+726,02D7,Book of the Soryu,1,5,No Sale,2500z
+727,02D8,"The chapter of the old tower, the first part",1,5,No Sale,50z
+728,02D9,The second part of the old tower,1,5,20000z,2000z
+729,02DA,The second part of the old tower,1,5,No Sale,50z
+730,02DB,Book of the old tower,1,5,No Sale,1000z
+731,02DC,Mouth of old acupoints,1,5,No Sale,10000z
+732,02DD,Old acupoint torso,1,5,No Sale,5000z
+733,02DE,The bottom of an old acupoint,1,5,No Sale,5000z
+734,02DF,Ancient acupoints,1,5,No Sale,0z
+735,02E0,Star iron,99,5,No Sale,15z
+736,02E1,Main sail,10,5,No Sale,1000z
+737,02E2,Main mast,10,5,No Sale,300z
+738,02E3,Proof of comrades,99,4,No Sale,5000z
+739,02E4,An Khe,99,5,No Sale,500z
+740,02E5,Instructor's order form,99,5,No Sale,0z
+741,02E6,Egg ticket,99,5,No Sale,0z
+742,02E7,Jewel certificate,99,5,No Sale,0z
+743,02E8,Proof of courage,99,5,No Sale,0z
+744,02E9,Paw stamp,99,5,No Sale,0z
+745,02EA,Guild ticket,99,5,No Sale,0z
+746,02EB,Yakiniku ticket,99,5,No Sale,0z
+747,02EC,Proof of a first-class hunter,99,5,No Sale,0z
+748,02ED,Big sword ticket,99,5,No Sale,0z
+749,02EE,Hammer ticket,99,5,No Sale,0z
+750,02EF,Lance ticket,99,5,No Sale,0z
+751,02F0,One-handed sword ticket,99,5,No Sale,0z
+752,02F1,Gunner ticket,99,5,No Sale,0z
+753,02F2,Paw stamp,99,5,No Sale,0z
+754,02F3,Famitsu ticket,99,5,No Sale,0z
+755,02F4,Famitsu's order form,99,5,No Sale,0z
+756,02F5,Dengeki Ticket,99,5,No Sale,0z
+757,02F6,Dengeki G Ticket,99,5,No Sale,0z
+758,02F7,Maca pickled jar,3,3,300z,30z
+759,02F8,"Maca pickled jar, green",1,3,No Sale,31z
+760,02F9,"Maca pickled jar, green",1,3,No Sale,31z
+761,02FA,"Maca pickled jar, green",1,3,No Sale,35z
+762,02FB,"Maca pickled jar, green",1,3,No Sale,40z
+763,02FC,"Maca pickled jar, green",1,3,No Sale,80z
+764,02FD,"Maca pickled jar, green",1,5,No Sale,0z
+765,02FE,"Maca pickled jar, green",1,5,No Sale,0z
+766,02FF,"Maca pickled jar, green",1,3,No Sale,35z
+767,0300,"Maca pickled jar, green",1,3,No Sale,31z
+768,0301,"Maca pickled jar, green",1,3,No Sale,55z
+769,0302,"Maca pickled jar, green",1,5,No Sale,0z
+770,0303,"Maca pickled jar, green",1,5,No Sale,0z
+771,0304,"Maca pickled jar, green",1,5,No Sale,0z
+772,0305,"Maca pickled jar, green",1,5,No Sale,0z
+773,0306,"Maca pickled jar, red",1,3,No Sale,30z
+774,0307,"Maca pickled jar, red",1,3,No Sale,30z
+775,0308,"Maca pickled jar, red",1,3,No Sale,30z
+776,0309,"Maca pickled jar, red",1,3,No Sale,30z
+777,030A,"Maca pickled jar, yellow",1,3,No Sale,30z
+778,030B,"Maca pickled jar, yellow",1,3,No Sale,30z
+779,030C,"Maca pickled jar, yellow",1,3,No Sale,32z
+780,030D,"Maca pickled jar, yellow",1,3,No Sale,31z
+781,030E,"Maca pickled jar, blue",1,5,No Sale,0z
+782,030F,"Maca pickled jar, yellow",1,3,No Sale,77z
+783,0310,"Maca pickled jar, yellow",1,3,No Sale,77z
+784,0311,"Maca pickled jar, yellow",1,3,No Sale,35z
+785,0312,"Maca pickled jar, yellow",1,3,No Sale,50z
+786,0313,"Maca pickled jar, yellow",1,3,No Sale,40z
+787,0314,"Maca pickled jar, yellow",1,3,No Sale,30z
+788,0315,"Maca pickled jar, yellow",1,3,No Sale,50z
+789,0316,"Maca pickled jar, yellow",1,3,No Sale,70z
+790,0317,"Maca pickled jar, yellow",1,3,No Sale,90z
+791,0318,"Maca pickled jar, yellow",1,3,No Sale,35z
+792,0319,"Maca pickled jar, yellow",1,3,No Sale,30z
+793,031A,Water light original beads,99,4,No Sale,200z
+794,031B,Yangxiang original pearl,99,4,No Sale,350z
+795,031C,Asura original beads,99,5,No Sale,530z
+796,031D,Rurihara pearl,99,5,No Sale,880z
