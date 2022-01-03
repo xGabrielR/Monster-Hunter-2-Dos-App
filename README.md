@@ -2,6 +2,9 @@
 <p>This app is a visual product result of web scraping in a monster hunter 2 dos game webpage & pdf's.</p>
 <p>Similarly with my other project only in a different game.</p>
 
+![mh2 - Copia](https://user-images.githubusercontent.com/75986085/147991881-691a3e0f-93bc-41af-9af2-3dffe4090952.png)
+
+
 <h2>1. Business Problem (Objectives)</h2>
  <p>An application that facilitates access to Monster Hunter 2 Dos data, the game is not very popular, due to that there are not many offline quick search tools about the game.</p>
  <p>Some data with information of Mh2dos game on jp wiki page or other websites and pdf documents. All information must be easily accessed by the user, Similarly with my other project</p>
