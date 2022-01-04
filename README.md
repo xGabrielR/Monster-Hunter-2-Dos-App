@@ -37,5 +37,9 @@
 <ul>
   <li>Item Name Granularity.</li>
 </ul>
+<h3>Monster Data</h3>
+<ul>
+  <li>Monster Name Granularity.</li>
+</ul>
 <h2>3. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki and need translation from jp wiki.</p>
