@@ -31,7 +31,6 @@
       <dd>I opted to save the results on sqlite database and csv files for app.</dd>
   </dl>
 </ul>
-
 <h2>3. Data Granularity</h2>
 <h3>Item Data</h3>
 <ul>
@@ -40,6 +39,10 @@
 <h3>Monster Data</h3>
 <ul>
   <li>Monster Name Granularity.</li>
+</ul>
+<h3>Recipes Data</h3>
+<ul>
+  <li>Recipe Effect Granularity.</li>
 </ul>
 <h2>3. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki and need translation from jp wiki.</p>
