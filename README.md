@@ -44,5 +44,9 @@
 <ul>
   <li>Recipe Effect Granularity.</li>
 </ul>
+<h3>Quests Data</h3>
+<ul>
+  <li>Season Granularity.</li>
+</ul>
 <h2>3. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki and need translation from jp wiki.</p>
