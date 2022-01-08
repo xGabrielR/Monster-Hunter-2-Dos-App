@@ -14,7 +14,6 @@
     <li>All Kitchen Combinations.</li>
     <li>Mix Sets.</li>
 </ul>
-  
 <h2>2. Solution Strategy & Assumptions</h2>
 <h3>Assumptions</h3>
 <p>The game never get new updates and easy to get data, but some of this data haved a last update on 2012, having some inconsistents.</p>
@@ -48,5 +47,7 @@
 <ul>
   <li>Season Granularity.</li>
 </ul>
-<h2>3. Little Problems Finded</h2>
+<h2>4. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki and need translation from jp wiki.</p>
+<h2>4. Mh2 Database App</h2>
+<p>The app for developed on videos using three editors as defined. It consists of a simple application that lists the data the user would like to see such as quests, monsters and other data with a simple and practical interface.</p>
