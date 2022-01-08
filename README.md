@@ -49,7 +49,7 @@
 </ul>
 <h2>4. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki and need translation from jp wiki.</p>
-<h2>4. Mh2 Database App</h2>
+<h2>5. Mh2 Database App</h2>
 <p>The app for developed on videos using three editors as defined. It consists of a simple application that lists the data the user would like to see such as quests, monsters and other data with a simple and practical interface.</p>
 <p>Geral Interface</p>
 
