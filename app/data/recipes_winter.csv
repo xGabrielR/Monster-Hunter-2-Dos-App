@@ -1,0 +1,396 @@
+,first_food,second_food,recipe,health,stamina,attack,defense
+0,Jango Onion,Rare Onion,Jumbo Pizza,+0,+25,+0,+0
+1,Jango Onion,Fatty Tomato,Gingi Ramen,+0,+50,+0,+0
+2,Jango Onion,Silver Grass,Otsu Cake Balls,+50,+25,+0,+0
+3,Jango Onion,Azuki,Guts’n’Chaofan,+50,+25,+0,+0
+4,Jango Onion,Pickled Kezhu,Peppered Pasta,+0,+25,-3,+0
+5,Jango Onion,Snake Meat,Fried Seafood,+0,+0,+3,+0
+6,Jango Onion,Dragon Tail,Coro Croquettes,+0,+0,+5,+0
+7,Jango Onion,Scale Fish,Shaky Tongue,+0,+25,+0,+10
+8,Jango Onion,Snake Salmon,Overjoyed Pan,+0,+25,+0,-20
+9,Jango Onion,Helodus,Overjoyed Pan,+0,+25,+0,+20
+10,Jango Onion,RiceBug,Dokkan Soup,+10,+0,+0,+0
+11,Jango Onion,GodBug,Surprise Stew,+0,+25,+0,+0
+12,Jango Onion,Spice Worm,Jumbo Pizza,+10,+50,+0,+0
+13,Jango Onion,Honey-Dragonfly,Gingi Ramen,+10,+25,+0,+0
+14,Jango Onion,Red Oil,An An Zosui,+0,+25,+0,+0
+15,Jango Onion,Lifejam,Dozuki Risotto,+0,+25,+0,+0
+16,Jango Onion,Dry Margarine,Otsu Cake Balls,+0,+25,+0,-10
+17,Jango Onion,Buffalo Butter,Guts’n’Chaofan,+0,+25,+0,+10
+18,Jango Onion,Royale Cheese,Run Run Salad,+0,+0,+0,+10
+19,Jango Onion,Blessed Wine,Peppered Pasta,+0,+25,-3,+0
+20,Sliced Cactus,Rare Onion,Gingi Ramen,+0,+25,+0,+0
+21,Sliced Cactus,Fatty Tomato,Smaley Curry,+0,+50,+0,+0
+22,Sliced Cactus,Warwheat,Surprise Stew,+0,+25,+0,+0
+23,Sliced Cactus,Mixed Beans,Dozuki Risotto,+0,+25,+0,+0
+24,Sliced Cactus,Bread,Otsu Cake Balls,+10,+25,+0,+0
+25,Sliced Cactus,Silver Grass,Guts’n’Chaofan,+50,+25,+0,+0
+26,Sliced Cactus,Azuki,Run Run Salad,+50,+25,+0,+0
+27,Sliced Cactus,Popo Meat,Peppered Pasta,+0,+25,+3,+0
+28,Sliced Cactus,Pickled Kezhu,Fried Seafood,+0,+25,-3,+0
+29,Sliced Cactus,Snake Meat,Coro Croquettes,+0,+25,+3,+0
+30,Sliced Cactus,Dragon Tail,Shaky Tongue,+0,+25,+5,+0
+31,Sliced Cactus,Scale Fish,Overjoyed Pan,+0,+25,+0,+10
+32,Sliced Cactus,Sushi Fish,Shaky Tongue,+0,+25,+0,+0
+33,Sliced Cactus,Snake Salmon,Dokkan Soup,+0,-25,+0,+20
+34,Sliced Cactus,Sword Fish,Coro Croquettes,+0,+25,+0,-10
+35,Sliced Cactus,RiceBug,Jumbo Pizza,-10,+25,+0,+0
+36,Sliced Cactus,GodBug,Dozuki Risotto,+0,+25,+0,+0
+37,Sliced Cactus,Spice Worm,Gingi Ramen,+0,+25,+0,+0
+38,Sliced Cactus,Honey-Dragonfly,Smaley Curry,+20,+50,+0,+0
+39,Sliced Cactus,Red Oil,Surprise Stew,+0,+25,+0,+0
+40,Sliced Cactus,Lifejam,Otsu Cake Balls,+0,+50,+0,+0
+41,Sliced Cactus,Dry Margarine,Guts’n’Chaofan,+0,+25,+0,-10
+42,Sliced Cactus,Buffalo Butter,Run Run Salad,+0,+25,+0,+0
+43,Sliced Cactus,Sake,Peppered Pasta,+0,+25,+3,+0
+44,Sliced Cactus,Blessed Wine,Fried Seafood,+0,+25,+0,+0
+45,Sliced Cactus,Gold Sake,Coro Croquettes,+0,+25,+0,+0
+46,Sliced Cactus,Monster Egg,Shaky Tongue,+0,+25,+3,+10
+47,Sliced Cactus,Pig Cracker,Overjoyed Pan,+0,+25,-3,+0
+48,Rare Onion,Fatty Tomato,An An Zosui,+0,+25,+0,+0
+49,Rare Onion,Bread,Guts’n’Chaofan,+10,+0,+0,+0
+50,Rare Onion,Silver Grass,Run Run Salad,+30,+0,+0,+0
+51,Rare Onion,Popo Meat,Fried Seafood,+0,+0,+3,+0
+52,Rare Onion,Snake Meat,Shaky Tongue,+0,+0,+5,+0
+53,Rare Onion,Dragon Tail,Overjoyed Pan,+0,+0,+5,+0
+54,Rare Onion,Helodus,Jumbo Pizza,+0,+0,+0,+20
+55,Rare Onion,GodBug,Otsu Cake Balls,+10,+25,+0,+0
+56,Rare Onion,Spice Worm,Smaley Curry,+10,+25,+0,+0
+57,Rare Onion,Honey-Dragonfly,An An Zosui,+10,+0,+0,+0
+58,Rare Onion,Lifejam,Guts’n’Chaofan,+0,+25,+0,+0
+59,Rare Onion,Royale Cheese,Peppered Pasta,+0,+0,+0,+10
+60,Rare Onion,Monster Egg,Overjoyed Pan,+0,+0,+3,+10
+61,Rare Onion,Pig Cracker,Dokkan Soup,+0,+25,+3,+0
+62,Fatty Tomato,Matsutake,Dozuki Risotto,+0,+25,+0,+0
+63,Fatty Tomato,Warwheat,Otsu Cake Balls,+0,+50,+0,+0
+64,Fatty Tomato,Mixed Beans,Guts’n’Chaofan,-10,+50,+0,+0
+65,Fatty Tomato,Bread,Run Run Salad,+0,+25,+0,+0
+66,Fatty Tomato,Azuki,Peppered Pasta,+50,+50,+0,+0
+67,Fatty Tomato,White Liver,Fried Seafood,+0,+25,+0,+0
+68,Fatty Tomato,Popo Meat,Coro Croquettes,+0,+25,+3,+0
+69,Fatty Tomato,Pickled Kezhu,Shaky Tongue,+0,+50,-3,+0
+70,Fatty Tomato,Snake Meat,Overjoyed Pan,+0,+50,+5,+0
+71,Fatty Tomato,Scale Fish,Jumbo Pizza,+0,+50,+0,+10
+72,Fatty Tomato,Snake Salmon,Gingi Ramen,+0,+25,+0,-10
+73,Fatty Tomato,Helodus,Gingi Ramen,+0,+25,+0,+10
+74,Fatty Tomato,Sword Fish,Overjoyed Pan,+0,+50,+0,-10
+75,Fatty Tomato,RiceBug,Smaley Curry,-10,+50,+0,+0
+76,Fatty Tomato,GodBug,Guts’n’Chaofan,+10,+50,+0,+0
+77,Fatty Tomato,Spice Worm,An An Zosui,+0,+50,+0,+0
+78,Fatty Tomato,Honey-Dragonfly,Surprise Stew,+10,+50,+0,+0
+79,Fatty Tomato,Hercules Beetle,Dozuki Risotto,-10,+25,+0,+0
+80,Fatty Tomato,Red Oil,Otsu Cake Balls,+10,+50,+0,+0
+81,Fatty Tomato,Powerlad,Guts’n’Chaofan,-10,+50,+0,+0
+82,Fatty Tomato,Lifejam,Run Run Salad,+0,+50,+0,+0
+83,Fatty Tomato,Dry Margarine,Doku Doku Doria,+0,-50,+0,+10
+84,Fatty Tomato,Buffalo Butter,Peppered Pasta,+0,+50,+0,+10
+85,Fatty Tomato,Royale Cheese,Fried Seafood,+0,+25,+0,+10
+86,Fatty Tomato,Sake,Coro Croquettes,+0,+25,+0,+0
+87,Fatty Tomato,Blessed Wine,Shaky Tongue,+0,+50,-3,+0
+88,Fatty Tomato,Gold Sake,Overjoyed Pan,+0,+50,+0,+0
+89,Fatty Tomato,Pig Cracker,Jumbo Pizza,+0,+50,-3,+0
+90,Matsutake,Bread,Doku Doku Doria,-10,+25,+0,+0
+91,Matsutake,Silver Grass,Peppered Pasta,+50,-25,+0,+0
+92,Matsutake,Azuki,Fried Seafood,+50,-25,+0,+0
+93,Matsutake,Popo Meat,Shaky Tongue,+0,-25,+3,+0
+94,Matsutake,Snake Meat,Dokkan Soup,+0,+25,-5,+0
+95,Matsutake,Dragon Tail,Jumbo Pizza,+0,-25,+5,+0
+96,Matsutake,Helodus,Smaley Curry,+0,-25,+0,+20
+97,Matsutake,Sword Fish,Dokkan Soup,+0,+25,+0,+10
+98,Matsutake,Honey-Dragonfly,Dozuki Risotto,+10,+0,+0,+0
+99,Matsutake,Red Oil,Guts’n’Chaofan,+10,-25,+0,+0
+100,Matsutake,Royale Cheese,Coro Croquettes,+0,-25,+0,+10
+101,Matsutake,Sake,Shaky Tongue,+0,-25,+3,+0
+102,Matsutake,Gold Sake,Dokkan Soup,+0,+25,+0,+0
+103,Matsutake,Monster Egg,Jumbo Pizza,+0,-25,+3,+10
+104,Warwheat,Mixed Beans,Doku Doku Doria,+10,+0,+0,+0
+105,Warwheat,Bread,Peppered Pasta,+10,+0,+0,+0
+106,Warwheat,Silver Grass,Fried Seafood,+30,+0,+0,+0
+107,Warwheat,Azuki,Coro Croquettes,+50,+0,+0,+0
+108,Warwheat,Popo Meat,Overjoyed Pan,+0,+0,+3,+0
+109,Warwheat,Pickled Kezhu,Dokkan Soup,+0,+0,+3,+0
+110,Warwheat,Snake Meat,Jumbo Pizza,+0,+0,+5,+0
+111,Warwheat,Dragon Tail,Gingi Ramen,+0,+0,+5,+0
+112,Warwheat,Scale Fish,Smaley Curry,+0,+0,+0,+10
+113,Warwheat,Helodus,An An Zosui,+0,+0,+0,+10
+114,Warwheat,Spice Worm,Dozuki Risotto,+0,+25,+0,+0
+115,Warwheat,Honey-Dragonfly,Otsu Cake Balls,+30,+25,+0,+0
+116,Warwheat,Powerlad,Doku Doku Doria,+10,+25,+0,+0
+117,Warwheat,Lifejam,Peppered Pasta,+0,+25,+0,+0
+118,Warwheat,Royale Cheese,Shaky Tongue,+0,+0,+0,+10
+119,Warwheat,Sake,Overjoyed Pan,+0,+0,+3,+0
+120,Warwheat,Blessed Wine,Dokkan Soup,+0,+0,+3,+0
+121,Mixed Beans,Silver Grass,Coro Croquettes,+20,+0,+0,+0
+122,Mixed Beans,Azuki,Shaky Tongue,+50,+0,+0,+0
+123,Mixed Beans,Popo Meat,Dokkan Soup,+10,+0,-3,+0
+124,Mixed Beans,Snake Meat,Gingi Ramen,+0,+0,+3,+0
+125,Mixed Beans,Dragon Tail,Smaley Curry,-10,+0,+5,+0
+126,Mixed Beans,Helodus,Surprise Stew,+0,+0,+0,+10
+127,Mixed Beans,GodBug,Peppered Pasta,+0,+25,+0,+0
+128,Mixed Beans,Spice Worm,Otsu Cake Balls,+0,+25,+0,+0
+129,Mixed Beans,Honey-Dragonfly,Guts’n’Chaofan,+10,+25,+0,+0
+130,Mixed Beans,Lifejam,Fried Seafood,+0,+25,+0,+0
+131,Mixed Beans,Buffalo Butter,Shaky Tongue,-10,+0,+0,+10
+132,Mixed Beans,Royale Cheese,Overjoyed Pan,-10,+0,+0,+10
+133,Mixed Beans,Sake,Dokkan Soup,+10,+0,-3,+0
+134,Mixed Beans,Monster Egg,Smaley Curry,-10,+0,+3,+10
+135,Bread,Silver Grass,Shaky Tongue,+50,+0,+0,+0
+136,Bread,Azuki,Overjoyed Pan,+50,+0,+0,+0
+137,Bread,Popo Meat,Jumbo Pizza,+10,+0,+3,+0
+138,Bread,Snake Meat,Smaley Curry,+10,+0,+5,+0
+139,Bread,Dragon Tail,An An Zosui,+0,+0,+5,+0
+140,Bread,Helodus,Dozuki Risotto,+0,+0,+0,+10
+141,Bread,Sword Fish,Smaley Curry,+10,+0,+0,-10
+142,Bread,GodBug,Fried Seafood,+10,+0,+0,+0
+143,Bread,Spice Worm,Guts’n’Chaofan,+30,+25,+0,+0
+144,Bread,Honey-Dragonfly,Run Run Salad,+20,+0,+0,+0
+145,Bread,Hercules Beetle,Doku Doku Doria,+10,+25,+0,+0
+146,Bread,Red Oil,Peppered Pasta,+20,+25,+0,+0
+147,Bread,Lifejam,Coro Croquettes,+0,+25,+0,+0
+148,Bread,Dry Margarine,Shaky Tongue,+10,+0,+0,-10
+149,Bread,Buffalo Butter,Overjoyed Pan,+10,+0,+0,+10
+150,Bread,Sake,Jumbo Pizza,+10,+0,+3,+0
+151,Bread,Gold Sake,Smaley Curry,+10,+0,+0,+0
+152,Silver Grass,White Liver,Jumbo Pizza,+50,+0,+0,+0
+153,Silver Grass,Popo Meat,Gingi Ramen,+30,+0,+3,+0
+154,Silver Grass,Pickled Kezhu,Smaley Curry,+50,+0,-3,+0
+155,Silver Grass,Snake Meat,An An Zosui,+30,+0,+3,+0
+156,Silver Grass,Dragon Tail,Surprise Stew,+30,+0,+5,+0
+157,Silver Grass,Scale Fish,Dozuki Risotto,+30,+0,+0,+0
+158,Silver Grass,Sushi Fish,Surprise Stew,+30,+0,+0,+0
+159,Silver Grass,Snake Salmon,Otsu Cake Balls,+50,+0,+0,-20
+160,Silver Grass,Helodus,Otsu Cake Balls,+50,+0,+0,+20
+161,Silver Grass,Sword Fish,An An Zosui,+30,+0,+0,-10
+162,Silver Grass,RiceBug,Guts’n’Chaofan,+50,-25,+0,+0
+163,Silver Grass,GodBug,Coro Croquettes,+40,+0,+0,+0
+164,Silver Grass,Spice Worm,Run Run Salad,+40,+25,+0,+0
+165,Silver Grass,Hercules Beetle,Peppered Pasta,+20,-25,+0,+0
+166,Silver Grass,Red Oil,Fried Seafood,+40,+0,+0,+0
+167,Silver Grass,Powerlad,Coro Croquettes,+20,+0,+0,+0
+168,Silver Grass,Lifejam,Shaky Tongue,+50,+25,+0,+0
+169,Silver Grass,Dry Margarine,Overjoyed Pan,+50,+0,+0,-10
+170,Silver Grass,Royale Cheese,Jumbo Pizza,+50,+0,+0,+10
+171,Silver Grass,Sake,Gingi Ramen,+30,+0,+0,+0
+172,Silver Grass,Blessed Wine,Smaley Curry,+50,+0,-3,+0
+173,Silver Grass,Gold Sake,An An Zosui,+30,+0,+0,+0
+174,Silver Grass,Monster Egg,Surprise Stew,+30,+0,+0,+0
+175,Silver Grass,Pig Cracker,Dozuki Risotto,+30,+0,+0,+0
+176,Azuki,White Liver,Gingi Ramen,+50,+0,+0,+0
+177,Azuki,Popo Meat,Smaley Curry,+50,+0,+3,+0
+178,Azuki,Pickled Kezhu,An An Zosui,+50,+0,-3,+0
+179,Azuki,Snake Meat,Surprise Stew,+50,+0,+3,+0
+180,Azuki,Dragon Tail,Dozuki Risotto,+50,+0,+5,+0
+181,Azuki,Scale Fish,Otsu Cake Balls,+50,+0,+0,+10
+182,Azuki,Sushi Fish,Dozuki Risotto,+50,+0,+0,+0
+183,Azuki,Snake Salmon,Guts’n’Chaofan,+50,+0,+0,-20
+184,Azuki,Helodus,Guts’n’Chaofan,+50,+0,+0,+20
+185,Azuki,Sword Fish,Surprise Stew,+50,+0,+0,-10
+186,Azuki,RiceBug,Run Run Salad,+40,+0,+0,+0
+187,Azuki,GodBug,Shaky Tongue,+50,+25,+0,+0
+188,Azuki,Honey-Dragonfly,Peppered Pasta,+50,+25,+0,+0
+189,Azuki,Hercules Beetle,Fried Seafood,+30,-25,+0,+0
+190,Azuki,Red Oil,Coro Croquettes,+50,+0,+0,+0
+191,Azuki,Powerlad,Shaky Tongue,+50,-25,+0,+0
+192,Azuki,Lifejam,Overjoyed Pan,+50,+25,+0,+0
+193,Azuki,Dry Margarine,Dokkan Soup,-50,+0,+0,+10
+194,Azuki,Buffalo Butter,Jumbo Pizza,+50,+0,+0,+10
+195,Azuki,Royale Cheese,Gingi Ramen,+50,+0,+0,+10
+196,Azuki,Sake,Smaley Curry,+50,+0,+3,+0
+197,Azuki,Blessed Wine,An An Zosui,+50,+0,+0,+0
+198,Azuki,Gold Sake,Surprise Stew,+50,+0,+0,+0
+199,Azuki,Monster Egg,Dozuki Risotto,+50,+0,+0,+0
+200,Azuki,Pig Cracker,Otsu Cake Balls,+50,-25,-3,+0
+201,White Liver,Popo Meat,An An Zosui,+0,+0,+3,+0
+202,White Liver,Snake Meat,Dozuki Risotto,+0,+0,+3,+0
+203,White Liver,Dragon Tail,Otsu Cake Balls,+0,+0,+5,+0
+204,White Liver,Scale Fish,Guts’n’Chaofan,+0,+0,+0,+10
+205,White Liver,Helodus,Run Run Salad,+0,+0,+0,+10
+206,White Liver,RiceBug,Doku Doku Doria,+10,+25,+0,+0
+207,White Liver,GodBug,Overjoyed Pan,+10,+25,+0,+0
+208,White Liver,Spice Worm,Peppered Pasta,+10,+25,+0,+0
+209,White Liver,Honey-Dragonfly,Fried Seafood,+10,+0,+0,+0
+210,White Liver,Red Oil,Shaky Tongue,+10,+25,+0,+0
+211,White Liver,Royale Cheese,Smaley Curry,+0,+0,+0,+10
+212,White Liver,Monster Egg,Otsu Cake Balls,+0,+0,+3,+10
+213,Popo Meat,Snake Meat,Otsu Cake Balls,+0,+0,+5,+0
+214,Popo Meat,Dragon Tail,Guts’n’Chaofan,+0,+0,+5,+0
+215,Popo Meat,Scale Fish,Run Run Salad,+0,+0,+3,+0
+216,Popo Meat,Sushi Fish,Guts’n’Chaofan,+0,+0,+3,+0
+217,Popo Meat,Snake Salmon,Doku Doku Doria,+0,+0,-3,+20
+218,Popo Meat,Sword Fish,Otsu Cake Balls,+0,+0,+3,-10
+219,Popo Meat,RiceBug,Peppered Pasta,-10,-25,+3,+0
+220,Popo Meat,Spice Worm,Fried Seafood,+0,+25,+3,+0
+221,Popo Meat,Honey-Dragonfly,Coro Croquettes,+10,+0,+3,+0
+222,Popo Meat,Hercules Beetle,Shaky Tongue,-20,-25,+3,+0
+223,Popo Meat,Red Oil,Overjoyed Pan,+10,+25,+3,+0
+224,Popo Meat,Powerlad,Dokkan Soup,+10,+25,-3,+0
+225,Popo Meat,Lifejam,Jumbo Pizza,+0,+25,+3,+0
+226,Popo Meat,Dry Margarine,Gingi Ramen,+0,+0,+3,+0
+227,Popo Meat,Buffalo Butter,Smaley Curry,+0,+0,+3,+10
+228,Popo Meat,Royale Cheese,An An Zosui,+0,+0,+3,+10
+229,Popo Meat,Sake,Surprise Stew,+0,+0,+3,+0
+230,Popo Meat,Gold Sake,Otsu Cake Balls,+0,+0,+3,+0
+231,Popo Meat,Monster Egg,Guts’n’Chaofan,+0,+0,+5,+10
+232,Pickled Kezhu,Snake Meat,Guts’n’Chaofan,+0,+0,+3,+0
+233,Pickled Kezhu,Dragon Tail,Run Run Salad,+0,+0,+3,+0
+234,Pickled Kezhu,Scale Fish,Doku Doku Doria,+0,+0,+3,-10
+235,Pickled Kezhu,Helodus,Peppered Pasta,+0,+0,-3,+20
+236,Pickled Kezhu,GodBug,Jumbo Pizza,+10,+25,-3,+0
+237,Pickled Kezhu,Spice Worm,Coro Croquettes,+0,+25,-3,+0
+238,Pickled Kezhu,Honey-Dragonfly,Shaky Tongue,+20,+25,-3,+0
+239,Pickled Kezhu,Red Oil,Dokkan Soup,-10,-25,+3,+0
+240,Pickled Kezhu,Lifejam,Gingi Ramen,+0,+25,-3,+0
+241,Pickled Kezhu,Royale Cheese,Surprise Stew,+0,+0,-3,+10
+242,Pickled Kezhu,Pig Cracker,Doku Doku Doria,+0,+25,+5,+0
+243,Snake Meat,Scale Fish,Peppered Pasta,+0,+0,+5,+10
+244,Snake Meat,Snake Salmon,Fried Seafood,+0,+0,+3,-10
+245,Snake Meat,Helodus,Fried Seafood,+0,+0,+3,+10
+246,Snake Meat,Sword Fish,Run Run Salad,+0,+0,+3,-10
+247,Snake Meat,RiceBug,Coro Croquettes,+0,+0,+3,+0
+248,Snake Meat,GodBug,Gingi Ramen,+0,+0,+3,+0
+249,Snake Meat,Spice Worm,Shaky Tongue,+10,+25,+5,+0
+250,Snake Meat,Honey-Dragonfly,Overjoyed Pan,+30,+25,+5,+0
+251,Snake Meat,Hercules Beetle,Dokkan Soup,+20,+25,-5,+0
+252,Snake Meat,Red Oil,Jumbo Pizza,+10,+25,+5,+0
+253,Snake Meat,Powerlad,Gingi Ramen,+0,+0,+3,+0
+254,Snake Meat,Lifejam,Smaley Curry,+0,+25,+5,+0
+255,Snake Meat,Dry Margarine,An An Zosui,+0,+0,+3,+0
+256,Snake Meat,Buffalo Butter,Surprise Stew,+0,+0,+3,+0
+257,Snake Meat,Royale Cheese,Dozuki Risotto,+0,+0,+3,+10
+258,Snake Meat,Sake,Otsu Cake Balls,+0,+0,+5,+0
+259,Snake Meat,Blessed Wine,Guts’n’Chaofan,+0,+0,+5,+0
+260,Snake Meat,Gold Sake,Run Run Salad,+0,+0,+3,+0
+261,Snake Meat,Pig Cracker,Peppered Pasta,+0,-25,+5,+0
+262,Dragon Tail,Scale Fish,Fried Seafood,+0,+0,+5,+0
+263,Dragon Tail,Sushi Fish,Peppered Pasta,+0,+0,+5,+0
+264,Dragon Tail,Snake Salmon,Coro Croquettes,+0,+0,+5,-10
+265,Dragon Tail,Helodus,Coro Croquettes,+0,+0,+5,+10
+266,Dragon Tail,Sword Fish,Doku Doku Doria,+0,+0,-5,+10
+267,Dragon Tail,RiceBug,Shaky Tongue,-10,-25,+5,+0
+268,Dragon Tail,GodBug,Smaley Curry,+10,+25,+5,+0
+269,Dragon Tail,Spice Worm,Overjoyed Pan,+10,+25,+5,+0
+270,Dragon Tail,Hercules Beetle,Jumbo Pizza,-20,-25,+5,+0
+271,Dragon Tail,Red Oil,Gingi Ramen,+0,+0,+5,+0
+272,Dragon Tail,Powerlad,Smaley Curry,-10,-25,+5,+0
+273,Dragon Tail,Lifejam,An An Zosui,+0,+25,+5,+0
+274,Dragon Tail,Dry Margarine,Surprise Stew,+0,+0,+5,+0
+275,Dragon Tail,Buffalo Butter,Dozuki Risotto,+0,+0,+5,+0
+276,Dragon Tail,Royale Cheese,Otsu Cake Balls,+0,+0,+5,+10
+277,Dragon Tail,Sake,Guts’n’Chaofan,+0,+0,+5,+0
+278,Dragon Tail,Blessed Wine,Run Run Salad,+0,+0,+5,+0
+279,Dragon Tail,Monster Egg,Peppered Pasta,+0,+0,+5,+10
+280,Dragon Tail,Pig Cracker,Fried Seafood,+0,+0,+5,+0
+281,Scale Fish,Helodus,Shaky Tongue,+0,+0,+0,+20
+282,Scale Fish,RiceBug,Overjoyed Pan,-10,-25,+0,+10
+283,Scale Fish,Honey-Dragonfly,Jumbo Pizza,+20,+25,+0,+10
+284,Scale Fish,Red Oil,Smaley Curry,+10,+25,+0,+10
+285,Scale Fish,Lifejam,Surprise Stew,+0,+25,+0,+0
+286,Scale Fish,Buffalo Butter,Otsu Cake Balls,+0,+0,+0,+10
+287,Scale Fish,Royale Cheese,Guts’n’Chaofan,+0,+0,+0,+20
+288,Scale Fish,Blessed Wine,Doku Doku Doria,+0,+0,+3,-10
+289,Scale Fish,Gold Sake,Peppered Pasta,+0,+0,+0,+10
+290,Scale Fish,Monster Egg,Fried Seafood,+0,+0,+0,+10
+291,Sushi Fish,Helodus,Coro Croquettes,+0,+0,+0,+10
+292,Sushi Fish,Sword Fish,Doku Doku Doria,+0,+0,+0,+10
+293,Sushi Fish,GodBug,Smaley Curry,+10,+25,+0,+0
+294,Sushi Fish,Spice Worm,Overjoyed Pan,+10,+25,+0,+0
+295,Sushi Fish,Lifejam,An An Zosui,+0,+25,+0,+0
+296,Sushi Fish,Royale Cheese,Otsu Cake Balls,+0,+0,+0,+10
+297,Sushi Fish,Sake,Guts’n’Chaofan,+0,+0,+3,+0
+298,Sushi Fish,Monster Egg,Peppered Pasta,+0,+0,+3,+10
+299,Snake Salmon,Helodus,Overjoyed Pan,+0,+0,+0,+10
+300,Snake Salmon,RiceBug,Dokkan Soup,+10,+25,+0,+20
+301,Snake Salmon,Spice Worm,Jumbo Pizza,+10,+25,+0,-20
+302,Snake Salmon,Honey-Dragonfly,Gingi Ramen,+10,+0,+0,-10
+303,Snake Salmon,Lifejam,Dozuki Risotto,+0,+25,+0,-10
+304,Snake Salmon,Sake,Doku Doku Doria,+0,+0,-3,+20
+305,Helodus,Sword Fish,Fried Seafood,+0,+0,+0,+10
+306,Helodus,RiceBug,Dokkan Soup,+10,+25,+0,-20
+307,Helodus,GodBug,Surprise Stew,+0,+0,+0,+10
+308,Helodus,Spice Worm,Jumbo Pizza,+10,+25,+0,+20
+309,Helodus,Honey-Dragonfly,Gingi Ramen,+10,+0,+0,+10
+310,Helodus,Hercules Beetle,Smaley Curry,-20,-25,+0,+20
+311,Helodus,Red Oil,An An Zosui,+0,+0,+0,+10
+312,Helodus,Powerlad,Surprise Stew,+0,+0,+0,+10
+313,Helodus,Lifejam,Dozuki Risotto,+0,+25,+0,+10
+314,Helodus,Dry Margarine,Otsu Cake Balls,+0,+0,+0,+20
+315,Helodus,Buffalo Butter,Guts’n’Chaofan,+0,+0,+0,+20
+316,Helodus,Royale Cheese,Run Run Salad,+0,+0,+0,+20
+317,Helodus,Blessed Wine,Peppered Pasta,+0,+0,-3,+20
+318,Helodus,Gold Sake,Fried Seafood,+0,+0,+0,+10
+319,Helodus,Monster Egg,Coro Croquettes,+0,+0,+0,+20
+320,Helodus,Pig Cracker,Shaky Tongue,+0,-25,-3,+20
+321,Sword Fish,Spice Worm,Shaky Tongue,+10,+25,+0,-10
+322,Sword Fish,Honey-Dragonfly,Overjoyed Pan,+30,+25,+0,-10
+323,Sword Fish,Hercules Beetle,Dokkan Soup,+20,+25,+0,+10
+324,Sword Fish,Red Oil,Jumbo Pizza,+10,+25,+0,-10
+325,Sword Fish,Lifejam,Smaley Curry,+0,+25,+0,-10
+326,Sword Fish,Sake,Otsu Cake Balls,+0,+0,+3,-10
+327,Sword Fish,Monster Egg,Doku Doku Doria,+0,+0,-3,+10
+328,RiceBug,Honey-Dragonfly,Smaley Curry,+10,+0,+0,+0
+329,RiceBug,Lifejam,Otsu Cake Balls,-10,+25,+0,+0
+330,RiceBug,Royale Cheese,Doku Doku Doria,+10,+25,+0,-10
+331,RiceBug,Sake,Peppered Pasta,-10,-25,+3,+0
+332,RiceBug,Monster Egg,Shaky Tongue,-10,-25,+3,+10
+333,GodBug,Spice Worm,Otsu Cake Balls,+30,+50,+0,+0
+334,GodBug,Honey-Dragonfly,Guts’n’Chaofan,+50,+25,+0,+0
+335,GodBug,Lifejam,Fried Seafood,+0,+25,+0,+0
+336,GodBug,Buffalo Butter,Shaky Tongue,+10,+25,+0,+10
+337,GodBug,Royale Cheese,Overjoyed Pan,+10,+25,+0,+10
+338,GodBug,Blessed Wine,Jumbo Pizza,+10,+25,-3,+0
+339,GodBug,Monster Egg,Smaley Curry,+10,+25,+3,+10
+340,Spice Worm,Honey-Dragonfly,An An Zosui,+20,+25,+0,+0
+341,Spice Worm,Red Oil,Dozuki Risotto,+10,+25,+0,+0
+342,Spice Worm,Powerlad,Otsu Cake Balls,+0,+25,+0,+0
+343,Spice Worm,Lifejam,Guts’n’Chaofan,+10,+50,+0,+0
+344,Spice Worm,Dry Margarine,Run Run Salad,+0,+25,+0,+0
+345,Spice Worm,Royale Cheese,Peppered Pasta,+10,+25,+0,+10
+346,Spice Worm,Sake,Fried Seafood,+0,+25,+0,+0
+347,Spice Worm,Blessed Wine,Coro Croquettes,+0,+25,+0,+0
+348,Spice Worm,Gold Sake,Shaky Tongue,+10,+25,+0,+0
+349,Spice Worm,Monster Egg,Overjoyed Pan,+10,+25,+3,+10
+350,Spice Worm,Pig Cracker,Dokkan Soup,-10,-25,+3,+0
+351,Honey-Dragonfly,Red Oil,Otsu Cake Balls,+50,+25,+0,+0
+352,Honey-Dragonfly,Powerlad,Guts’n’Chaofan,+10,+0,+0,+0
+353,Honey-Dragonfly,Lifejam,Run Run Salad,+10,+25,+0,+0
+354,Honey-Dragonfly,Dry Margarine,Doku Doku Doria,-20,-25,+0,+10
+355,Honey-Dragonfly,Buffalo Butter,Peppered Pasta,+20,+25,+0,+10
+356,Honey-Dragonfly,Royale Cheese,Fried Seafood,+10,+0,+0,+10
+357,Honey-Dragonfly,Sake,Coro Croquettes,+10,+0,+0,+0
+358,Honey-Dragonfly,Blessed Wine,Shaky Tongue,+20,+25,-3,+0
+359,Honey-Dragonfly,Gold Sake,Overjoyed Pan,+30,+25,+0,+0
+360,Honey-Dragonfly,Pig Cracker,Jumbo Pizza,+20,+0,-3,+0
+361,Hercules Beetle,Lifejam,Doku Doku Doria,+20,+0,+0,+0
+362,Hercules Beetle,Royale Cheese,Coro Croquettes,-10,-25,+0,+10
+363,Hercules Beetle,Sake,Shaky Tongue,-20,-25,+3,+0
+364,Hercules Beetle,Gold Sake,Dokkan Soup,+20,+25,+0,+0
+365,Hercules Beetle,Monster Egg,Jumbo Pizza,-20,-25,+3,+10
+366,Red Oil,Lifejam,Peppered Pasta,+10,+50,+0,+0
+367,Red Oil,Royale Cheese,Shaky Tongue,+10,+25,+0,+10
+368,Red Oil,Sake,Overjoyed Pan,+10,+25,+3,+0
+369,Red Oil,Blessed Wine,Dokkan Soup,-10,-25,+3,+0
+370,Red Oil,Gold Sake,Jumbo Pizza,+10,+25,+0,+0
+371,Red Oil,Pig Cracker,Smaley Curry,+10,+0,-3,+0
+372,Powerlad,Buffalo Butter,Shaky Tongue,-10,-25,+0,+10
+373,Powerlad,Royale Cheese,Overjoyed Pan,-10,-25,+0,+10
+374,Powerlad,Sake,Dokkan Soup,+10,+25,-3,+0
+375,Powerlad,Monster Egg,Smaley Curry,-10,-25,+3,+10
+376,Lifejam,Dry Margarine,Shaky Tongue,+0,+25,+0,-10
+377,Lifejam,Buffalo Butter,Overjoyed Pan,+0,+25,+0,+10
+378,Lifejam,Sake,Jumbo Pizza,+0,+25,+3,+0
+379,Lifejam,Blessed Wine,Gingi Ramen,+0,+25,+0,+0
+380,Lifejam,Gold Sake,Smaley Curry,+0,+25,+0,+0
+381,Lifejam,Monster Egg,An An Zosui,+0,+25,+0,+0
+382,Dry Margarine,Royale Cheese,Jumbo Pizza,+0,+0,+0,+10
+383,Buffalo Butter,Royale Cheese,Gingi Ramen,+0,+0,+0,+10
+384,Buffalo Butter,Sake,Smaley Curry,+0,+0,+3,+10
+385,Buffalo Butter,Monster Egg,Dozuki Risotto,+0,+0,+0,+10
+386,Buffalo Butter,Pig Cracker,Otsu Cake Balls,+0,-25,-3,+10
+387,Royale Cheese,Sake,An An Zosui,+0,+0,+0,+10
+388,Royale Cheese,Blessed Wine,Surprise Stew,+0,+0,+0,+10
+389,Royale Cheese,Gold Sake,Dozuki Risotto,+0,+0,+0,+10
+390,Royale Cheese,Monster Egg,Otsu Cake Balls,+0,+0,+3,+20
+391,Royale Cheese,Pig Cracker,Guts’n’Chaofan,+0,-25,-3,+10
+392,Sake,Gold Sake,Otsu Cake Balls,+0,+0,+3,+0
+393,Sake,Monster Egg,Guts’n’Chaofan,+0,+0,+3,+10
+394,Blessed Wine,Pig Cracker,Doku Doku Doria,+0,+25,+3,+0

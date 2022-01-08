@@ -1,0 +1,762 @@
+,id,name,jp_name,carry,rarity,buy,sell
+0,0001,Book of Combos1 ,調合書①入門編 ,1,4,1000z,100z
+1,0002,Book of Combos2 ,調合書②初級編 ,1,4,2000z,200z
+2,0003,Book of Combos3 ,調合書③中級編 ,1,4,5000z,500z
+3,0004,Book of Combos4 ,調合書④上級編 ,1,5,10000z,1000z
+4,0005,Book of Combos5 ,調合書⑤達人編 ,1,5,15000z,1500z
+5,0006,Alchemy Guide ,調合書Ｇ・錬金編 ,1,5,No Sale,2000z
+6,0007,Potion ,回復薬 ,10,1,66z,7z
+7,0008,Mega Potion ,回復薬グレート ,10,2,No Sale,16z
+8,0009,Nutrients ,栄養剤 ,5,2,760z,25z
+9,000A,Mega Nutrients ,栄養剤グレート ,5,3,No Sale,92z
+10,000B,Antidote ,解毒薬 ,10,1,60z,6z
+11,000C,Immunizer ,活力剤 ,10,3,No Sale,92z
+12,000D,Power Juice ,強走薬 ,5,2,No Sale,29z
+13,000E,Mega Juice ,強走薬グレート ,5,3,No Sale,205z
+14,000F,Demondrug ,鬼人薬 ,5,4,No Sale,67z
+15,0010,Mega Demondrug ,鬼人薬グレート ,5,5,No Sale,283z
+16,0011,Power Pill ,怪力の丸薬 ,5,1,No Sale,280z
+17,0012,Armorskin ,硬化薬 ,5,4,No Sale,58z
+18,0013,Mega Armorskin ,硬化薬グレート ,5,5,No Sale,269z
+19,0014,Armor Pill ,忍耐の丸薬 ,5,1,No Sale,260z
+20,0015,Cool Drink ,クーラードリンク ,5,1,300z,30z
+21,0016,Hot Drink ,ホットドリンク ,5,1,250z,25z
+22,0017,Psychoserum ,千里眼の薬 ,3,3,300z,30z
+23,0018,Monster Fluid ,モンスターの体液 ,99,4,No Sale,500z
+24,0019,Monster Broth ,モンスターの濃汁 ,99,5,No Sale,1000z
+25,001A,Herbal Medicine ,漢方薬 ,10,2,250z,25z
+26,001B,Max Potion ,秘薬 ,2,3,No Sale,210z
+27,001C,Ancient Potion ,いにしえの秘薬 ,1,5,No Sale,345z
+28,001D,Catalyst ,増強剤 ,5,2,480z,48z
+29,001E,Stamina Juice ,元気ドリンコ ,10,2,No Sale,6z
+30,0020,Gunpowder ,爆薬 ,20,2,222z,22z
+31,0021,Lifecrystals ,生命の粉 ,10,3,No Sale,59z
+32,0022,Lifepowder ,生命の粉塵 ,3,4,No Sale,315z
+33,0023,Power Charm ,力の護符 ,1,5,36000z,3600z
+34,0024,Powertalon ,力の爪 ,1,5,No Sale,6840z
+35,0025,Armor Charm ,守りの護符 ,1,5,24000z,2400z
+36,0026,Armortalon ,守りの爪 ,1,5,No Sale,5040z
+37,0027,Tranq Medicine ,捕獲用麻酔薬 ,10,4,150z,15z
+38,0028,Raw Meat ,生肉 ,10,1,No Sale,5z
+39,0029,Cooking Meat ,調理肉 ,10,1,No Sale,12z
+40,002A,Spicy Meat ,スパイシー生肉 ,10,1,No Sale,20z
+41,002B,Cool Meat ,クール生肉 ,10,1,No Sale,22z
+42,002C,Poisoned Meat ,毒生肉 ,10,1,188z,19z
+43,002D,Tainted Meat ,シビレ生肉 ,10,2,300z,30z
+44,002E,Drugged Meat ,眠り生肉 ,10,1,315z,32z
+45,002F,Rare Meat ,生焼け肉 ,10,1,No Sale,3z
+46,0030,Well-Done Steak ,こんがり肉 ,10,2,No Sale,48z
+47,0031,Well-Done Steak G ,こんがり肉Ｇ ,10,3,No Sale,64z
+48,0032,Burnt Meat ,コゲ肉 ,10,1,No Sale,1z
+49,0033,Hot Meat ,ホットミート ,10,1,No Sale,25z
+50,0034,Hot Meat G ,ホットミートＧ ,10,1,No Sale,30z
+51,0035,Cool Meat ,クーラーミート ,10,1,No Sale,30z
+52,0036,Cool Meat G ,クーラーミートＧ ,10,1,No Sale,38z
+53,0037,Antidote Meat ,解毒ミート ,10,1,No Sale,20z
+54,0038,Antidote Meat G ,解毒ミートＧ ,10,1,No Sale,28z
+55,0039,Rare Fish ,生焼け魚 ,10,1,No Sale,2z
+56,003A,Well-Done Fish ,こんがり魚 ,10,2,No Sale,40z
+57,003B,Well-Done Fish Dos ,こんがり魚ドス ,10,2,No Sale,60z
+58,003C,Well-Done Fish G ,こんがり魚Ｇ ,3,3,No Sale,58z
+59,003D,Well-Done Fish Dos G ,こんがり魚ドスＧ ,3,3,No Sale,70z
+60,003E,Burnt Fish ,コゲ魚 ,10,1,No Sale,1z
+61,0040,Boomerang ,ブーメラン ,5,4,150z,15z
+62,0041,Throwing Knife ,投げナイフ ,5,1,No Sale,0z
+63,0042,Poison Thrw Knf ,毒投げナイフ ,5,1,No Sale,0z
+64,0043,Sleeping Thrw Knf ,眠り投げナイフ ,5,1,No Sale,0z
+65,0044,Paralyze Thrw Knf ,麻痺投げナイフ ,5,1,No Sale,0z
+66,0045,Tranq Thrw Knf ,捕獲用麻酔ナイフ ,5,4,No Sale,0z
+67,0046,Bomb Material ,素材玉 ,30,1,150z,15z
+68,0047,Paintball ,ペイントボール ,99,1,No Sale,10z
+69,0048,Flash Bomb ,閃光玉 ,5,2,No Sale,57z
+70,0049,Sonic Bomb ,音爆弾 ,10,2,No Sale,45z
+71,004A,Dung ,モンスターのフン ,10,1,No Sale,1z
+72,004B,Dung Bomb ,こやし玉 ,10,2,No Sale,9z
+73,004C,Smoke Bomb ,けむり玉 ,10,2,No Sale,44z
+74,004D,Poison Bomb ,毒けむり玉 ,10,2,No Sale,60z
+75,004E,Farcaster ,モドリ玉 ,1,3,300z,30z
+76,004F,freshener Bomb ,消臭玉 ,5,2,No Sale,8z
+77,0050,Tranq Bomb ,捕獲用麻酔玉 ,8,4,No Sale,35z
+78,0051,Spiderweb ,クモの巣 ,10,1,60z,6z
+79,0052,Net ,ネット ,10,2,No Sale,54z
+80,0053,Trap Tool ,トラップツール ,2,3,200z,20z
+81,0054,Pitfall Trap ,落とし穴 ,1,3,No Sale,46z
+82,0055,Paralyze Trap ,シビレ罠 ,1,3,320z,160z
+83,0056,Lightning Conductor ,爆雷針 ,5,3,No Sale,28z
+84,0058,Barrel Lid ,タルの蓋 ,99,5,No Sale,10z
+85,0059,Small Barrel ,小タル ,10,1,80z,8z
+86,005A,Large Barrel ,大タル ,10,2,210z,21z
+87,005B,Sm Barrel Bomb ,小タル爆弾 ,10,2,156z,16z
+88,005C,Sm Barrel Bomb G ,小タル爆弾Ｇ ,5,4,No Sale,52z
+89,005D,Lg Barrel Bomb ,大タル爆弾 ,3,3,518z,52z
+90,005E,Lg Barrel Bomb G ,大タル爆弾Ｇ ,2,4,No Sale,80z
+91,005F,Rocket Barrel Bomb ,打上げタル爆弾 ,10,2,180z,18z
+92,0060,Rocket Barrel Bomb G ,打上げタル爆弾Ｇ ,10,4,No Sale,68z
+93,0061,Auto Destruct ,対巨龍爆弾 ,10,3,No Sale,0z
+94,0062,Poritan Bomb ,ポリタン爆弾 ,10,5,No Sale,50z
+95,0063,Huskberry ,カラの実 ,99,1,2z,1z
+96,0064,Sm Husk Bone ,カラ骨【小】 ,99,2,30z,3z
+97,0065,Lg Husk Bone ,カラ骨【大】 ,99,3,No Sale,5z
+98,0066,Normal s lv1 ,LV1 通常弾 ,99,1,1z,0z
+99,0067,Normal s lv2 ,LV2 通常弾 ,99,1,3z,1z
+100,0068,Normal s lv3 ,LV3 通常弾 ,99,2,5z,2z
+101,0069,Pierce s lv1 ,LV1 貫通弾 ,60,2,14z,1z
+102,006A,Pierce s lv2 ,LV2 貫通弾 ,50,2,32z,3z
+103,006B,Pierce s lv3 ,LV3 貫通弾 ,40,3,52z,5z
+104,006C,Pellet s lv1 ,LV1 散弾 ,60,2,14z,1z
+105,006D,Pellet s lv2 ,LV2 散弾 ,60,2,20z,2z
+106,006E,Pellet s lv3 ,LV3 散弾 ,60,3,27z,3z
+107,006F,Crag s lv1 ,LV1 徹甲榴弾 ,9,3,41z,4z
+108,0070,Crag s lv2 ,LV2 徹甲榴弾 ,9,3,66z,7z
+109,0071,Crag s lv3 ,LV3 徹甲榴弾 ,9,3,No Sale,7z
+110,0072,Clust s lv1 ,LV1 拡散弾 ,3,2,38z,4z
+111,0073,Clust s lv2 ,LV2 拡散弾 ,3,3,63z,6z
+112,0074,Clust s lv3 ,LV3 拡散弾 ,3,3,No Sale,10z
+113,0075,Flame s ,火炎弾 ,60,3,32z,3z
+114,0076,Water s ,水冷弾 ,60,3,32z,3z
+115,0077,Electro s ,電撃弾 ,60,3,32z,3z
+116,0078,Ice s ,氷結弾 ,60,3,32z,3z
+117,0079,Dragon S ,滅龍弾 ,20,5,No Sale,24z
+118,007A,Recover s lv1 ,LV1 回復弾 ,12,1,8z,2z
+119,007B,Recover s lv2 ,LV2 回復弾 ,12,2,21z,2z
+120,007C,Poison s lv1 ,LV1 毒弾 ,12,2,17z,2z
+121,007D,Poison s lv2 ,LV2 毒弾 ,8,3,No Sale,2z
+122,007E,Stun s lv1 ,LV1 麻痺弾 ,12,3,26z,3z
+123,007F,Stun s lv2 ,LV2 麻痺弾 ,8,4,No Sale,5z
+124,0080,Sleep s lv1 ,LV1 睡眠弾 ,12,3,17z,2z
+125,0081,Sleep s lv2 ,LV2 睡眠弾 ,8,4,No Sale,3z
+126,0082,Tranq s ,捕獲用麻酔弾 ,8,4,No Sale,4z
+127,0083,Paint s ,ペイント弾 ,99,1,No Sale,6z
+128,0084,Demon S ,鬼人弾 ,5,3,No Sale,9z
+129,0085,Armor S ,硬化弾 ,5,3,No Sale,7z
+130,0088,Empty Bottle ,空きビン ,99,1,5z,1z
+131,0089,Power Bottle ,強撃ビン ,50,2,52z,5z
+132,008A,Poison Bottle ,毒ビン ,20,3,24z,2z
+133,008B,Paralyzing Bottle ,麻痺ビン ,20,3,54z,5z
+134,008C,Sleep Bottle ,睡眠ビン ,20,3,35z,3z
+135,008E,Cricket ,釣りバッタ ,5,1,10z,1z
+136,008F,Worm ,釣りミミズ ,10,1,20z,2z
+137,0090,Firefly ,釣りホタル ,20,2,40z,4z
+138,0091,Frog ,釣りカエル ,10,2,No Sale,15z
+139,0092,Tuna Bait ,マグダンゴ ,10,2,No Sale,4z
+140,0093,Arrowana Bait ,アロダンゴ ,10,2,No Sale,7z
+141,0094,Goldenfish Bait ,黄金ダンゴ ,5,4,No Sale,30z
+142,0095,Fever Fly ,釣りフィーバエ ,10,3,30z,3z
+143,0096,Old Pickaxe ,ボロピッケル ,3,1,60z,6z
+144,0097,Iron Pickaxe ,ピッケル ,4,1,160z,16z
+145,0098,Mega Pickaxe ,ピッケルグレート ,5,3,240z,24z
+146,0099,Old Bugnet ,ボロ虫あみ ,3,1,30z,3z
+147,009A,Bugnet ,虫あみ ,4,1,80z,8z
+148,009B,Mega Bugnet ,虫あみグレート ,5,3,120z,12z
+149,009C,BBQspit ,肉焼きセット ,1,4,1980z,198z
+150,009D,High Speed BBQspit ,高速肉焼きセット ,1,4,No Sale,1000z
+151,009E,Mans BBQspit ,男の肉焼きセット ,1,4,No Sale,498z
+152,009F,WomensBBQspit ,女の肉焼きセット ,1,4,4980z,498z
+153,00A0,CatsBBQspit ,猫の肉焼きセット ,1,4,No Sale,498z
+154,00A1,よろず焼きキット ,よろず焼きキット ,1,4,1280z,128z
+155,00A2,よろず焼きセット ,よろず焼きセット ,1,4,No Sale,350z
+156,00A3,よろず焼き・肉 ,よろず焼き・肉 ,1,4,No Sale,350z
+157,00A4,よろず焼き・肉 ,よろず焼き・肉 ,1,4,No Sale,350z
+158,00A5,よろず焼き・肉 ,よろず焼き・肉 ,1,4,No Sale,350z
+159,00A6,よろず焼き・肉 ,よろず焼き・肉 ,1,4,No Sale,350z
+160,00A7,よろず焼き・肉 ,よろず焼き・肉 ,1,4,No Sale,350z
+161,00A8,よろず焼き・魚 ,よろず焼き・魚 ,1,4,No Sale,350z
+162,00A9,よろず焼き・魚 ,よろず焼き・魚 ,1,4,No Sale,350z
+163,00AC,Whetstone ,砥石 ,20,1,80z,8z
+164,00AD,Binoculars ,双眼鏡 ,1,1,50z,5z
+165,00AE,Garbage ,もえないゴミ ,99,1,No Sale,1z
+166,00AF,Flute ,角笛 ,1,2,480z,48z
+167,00B0,Health Flute ,回復笛 ,1,4,No Sale,550z
+168,00B1,Antidote Flute ,解毒笛 ,1,4,No Sale,520z
+169,00B2,Demon Flute ,鬼人笛 ,1,5,No Sale,1080z
+170,00B3,Armor Flute ,硬化笛 ,1,5,No Sale,986z
+171,00B4,Honey ,ハチミツ ,10,2,90z,45z
+172,00B5,Day Plant ,太陽草 ,10,2,15z,2z
+173,00B6,Night Plant ,落陽草 ,10,2,No Sale,2z
+174,00B7,Herb ,薬草 ,10,1,20z,2z
+175,00B8,Antidote Herb ,げどく草 ,10,1,20z,2z
+176,00B9,Fire Herb ,火薬草 ,20,2,44z,4z
+177,00BA,Ivy ,ツタの葉 ,10,1,75z,8z
+178,00BB,Sleep Herb ,ネムリ草 ,10,1,50z,5z
+179,00BC,Sap Plant ,ネンチャク草 ,30,1,24z,2z
+180,00BD,Felvine ,マタタビ ,10,1,14z,1z
+181,00BE,Cactus Flower ,サボテンの花 ,10,2,No Sale,10z
+182,00BF,Cactus ,百花サボテン ,10,4,No Sale,80z
+183,00C0,Hot Pepper ,トウガラシ ,10,2,44z,4z
+184,00C1,Special Mushroom ,特産キノコ ,10,5,No Sale,50z
+185,00C2,Rare Mushroom ,厳選キノコ ,10,5,No Sale,100z
+186,00C3,Maturing Mushroom ,熟成キノコ ,10,5,No Sale,70z
+187,00C4,Blue Mushroom ,アオキノコ ,10,2,24z,2z
+188,00C5,Nitroshroom ,ニトロダケ ,20,2,60z,6z
+189,00C6,Stunshroom ,マヒダケ ,10,3,150z,15z
+190,00C7,Toadstool ,毒テングダケ ,10,2,75z,8z
+191,00C8,Random Mushroom ,ドキドキノコ ,10,3,No Sale,18z
+192,00C9,Dragon Toadstool ,マンドラゴラ ,10,3,400z,40z
+193,00CA,Mushroom Kimchi ,特産キノコキムチ ,5,3,No Sale,54z
+194,00CB,Deadly Toadstool ,ゲキレツ毒テング ,10,3,No Sale,80z
+195,00CC,Rainbow Dandelion ,七色たんぽぽ ,99,4,No Sale,150z
+196,00CD,Paintberry ,ペイントの実 ,99,1,No Sale,6z
+197,00CE,Power Seed ,怪力の種 ,10,2,280z,140z
+198,00CF,Armor Seed ,忍耐の種 ,10,2,220z,110z
+199,00D0,Dragon Seed ,龍殺しの実 ,2,2,No Sale,78z
+200,00D1,Scatternut ,はじけクルミ ,30,2,82z,4z
+201,00D2,Needleberry ,ハリの実 ,99,1,22z,1z
+202,00D3,Bomberry ,カクサンの実 ,10,2,120z,12z
+203,00D4,Chipped Shell ,かけた貝殻 ,10,2,No Sale,30z
+204,00D5,Black Pearl ,黒真珠 ,99,4,No Sale,50z
+205,00D6,Sunshine Stone ,陽光石 ,99,2,No Sale,75z
+206,00D7,Stone ,石ころ ,99,1,No Sale,1z
+207,00D8,Iron Ore ,鉄鉱石 ,99,4,No Sale,60z
+208,00D9,Earth Crystal ,大地の結晶 ,99,4,No Sale,80z
+209,00DA,Machalite Ore ,マカライト鉱石 ,99,5,No Sale,160z
+210,00DB,Dragonite Ore ,ドラグライト鉱石 ,99,5,No Sale,480z
+211,00DC,Carbalite Ore ,カブレライト鉱石 ,99,5,No Sale,680z
+212,00DD,Union Ore ,ユニオン鉱石 ,99,5,No Sale,320z
+213,00DE,Fire Stone ,紅蓮石 ,99,5,No Sale,860z
+214,00E0,Coal ,燃石炭 ,10,3,No Sale,120z
+215,00E1,Lightcrystal ,ライトクリスタル ,99,5,No Sale,1150z
+216,00E2,Novacrystal ,ノヴァクリスタル ,99,5,No Sale,2440z
+217,00E3,Antiseptic Stone ,抗菌石 ,10,3,No Sale,183z
+218,00E4,Ice Crystal ,氷結晶 ,20,2,No Sale,60z
+219,00E6,Dosbiscus ,ドスビスカス ,99,5,No Sale,1000z
+220,00E7,Ale Nuts ,エールナッツ ,99,5,No Sale,950z
+221,00E8,Amber Ore ,アンバル鉱石 ,99,5,No Sale,1100z
+222,00E9,Secret Pouch ,秘密のポーチ ,10,4,No Sale,100z
+223,00EA,Knife Mackerel ,キレアジ ,10,1,135z,45z
+224,00EB,Sushi Fish ,サシミウオ ,10,1,90z,45z
+225,00EC,Sleepyfish ,眠魚 ,10,2,No Sale,45z
+226,00ED,Pin Tuna ,ハリマグロ ,30,1,190z,50z
+227,00EE,Rumblefish ,はじけイワシ ,30,2,38z,15z
+228,00EF,Scatterfish ,カクサンデメキン ,10,4,No Sale,150z
+229,00F0,Burst Arrowana ,ハレツアロワナ ,10,4,No Sale,45z
+230,00F1,Bomb Arrowana ,バクレツアロワナ ,10,4,No Sale,135z
+231,00F2,Dos Knife Mackerel ,ドスキレアジ ,5,3,No Sale,70z
+232,00F3,Dos Sleepyfish ,ドス眠魚 ,5,4,No Sale,60z
+233,00F4,Dos Pin Tuna ,ドスハリマグロ ,5,4,No Sale,100z
+234,00F5,Dos Rumblefish ,ドスはじけイワシ ,5,4,No Sale,50z
+235,00F6,Dos Arrowana ,ドスアロワナ ,5,4,No Sale,150z
+236,00F7,Fat Tuna ,大食いマグロ ,10,4,No Sale,13z
+237,00F8,Dos Fat Tuna ,ドス大食いマグロ ,5,5,No Sale,23z
+238,00F9,Gold Fish ,黄金魚 ,10,4,No Sale,200z
+239,00FA,Sword Fish ,カジキマグロ ,10,5,No Sale,1000z
+240,00FB,Small Goldfish ,小金魚 ,10,4,No Sale,110z
+241,00FC,White Goldfish ,白金魚 ,10,5,No Sale,770z
+242,00FD,Ancient Fish ,古代魚 ,99,5,No Sale,1500z
+243,00FE,Queen Shrimp ,女王エビ ,99,4,No Sale,880z
+244,00FF,Insect Husk ,虫の死骸 ,10,1,10z,1z
+245,0100,Yambug ,ヤマイモムシ ,99,1,30z,3z
+246,0101,Bughopper ,カクバッタ ,99,1,60z,6z
+247,0102,Snakebee Larva ,ツチハチノコ ,99,1,300z,30z
+248,0103,Godbug ,不死虫 ,10,4,420z,210z
+249,0104,Bitterbug ,にが虫 ,10,1,No Sale,2z
+250,0105,Flashbug ,光蟲 ,10,2,No Sale,48z
+251,0106,Thunderbug ,雷光虫 ,99,4,No Sale,350z
+252,0107,King Scarab ,王族カナブン ,99,4,No Sale,800z
+253,0108,Glue Bug ,のりこねバッタ ,99,5,No Sale,120z
+254,010A,Kila Beetle ,キラビートル ,99,4,No Sale,500z
+255,010B,Goldbug ,マレコガネ ,99,5,No Sale,1000z
+256,010C,Royale Beetle ,ロイヤルカブト ,10,2,No Sale,200z
+257,010D,Jango Onion ,ジャンゴーネギ ,99,2,50z,5z
+258,010E,Sliced Cuctus ,スライスサボテン ,99,2,100z,10z
+259,010F,Rare Onion ,レアオニオン ,99,3,250z,25z
+260,0110,Fatty Tomato ,シモフリトマト ,99,3,450z,45z
+261,0111,Matutake Mushroom ,オニマツタケ ,99,4,No Sale,98z
+262,0112,Warwheat ,ウォーミル麦 ,99,1,80z,8z
+263,0113,Mixed Beans ,ミックスビーンズ ,99,2,150z,15z
+264,0114,Bread ,頑固パン ,99,2,350z,35z
+265,0115,Silver Grass ,銀シャリ草 ,99,3,560z,56z
+266,0116,Ancient Beans ,古代豆 ,99,5,No Sale,88z
+267,0117,White Liver ,ホワイトレバー ,99,2,100z,10z
+268,0118,Popo Meat ,ポポノタン ,99,3,200z,20z
+269,0119,Pickled Kezhu ,フルベビ漬け ,99,3,No Sale,38z
+270,011A,Snake Meat ,ガブリブロース ,99,4,No Sale,55z
+271,011B,Dragon Tail ,リュウノテール ,99,5,No Sale,200z
+272,011C,オンプウオ ,オンプウオ ,99,2,30z,3z
+273,011D,Snake Salmon ,スネークサーモン ,99,4,280z,28z
+274,011E,Rice Bug ,米虫 ,99,2,30z,3z
+275,011F,Spice Worm ,スパイスワーム ,99,3,400z,40z
+276,0120,Honey-Dragonfly ,蜜トンボ ,99,3,No Sale,66z
+277,0121,Dos Hercules Beetle ,ドスヘラクレス ,99,5,No Sale,118z
+278,0122,Red Oil ,レッドオイル ,99,2,100z,10z
+279,0123,Powerlad ,パワーラード ,99,3,400z,40z
+280,0124,Lifejam ,長寿ジャム ,99,4,980z,98z
+281,0125,Dry Margerine ,ドライマーガリン ,99,2,100z,10z
+282,0126,Buffalo Butter ,猛牛バター ,99,3,400z,40z
+283,0127,Royale Cheese ,ロイヤルチーズ ,99,4,880z,88z
+284,0128,Hopi Sake ,ホピ酒 ,99,2,300z,30z
+285,0129,Blessed Wine ,ブレスワイン ,99,3,600z,60z
+286,012A,Gold Sake ,黄金芋酒 ,99,5,1280z,128z
+287,012B,Monster Egg ,モンスターエッグ ,99,3,No Sale,77z
+288,012C,Pig Cracker ,ブタせんべい ,99,1,10z,1z
+289,012E,Screamer ,鳴き袋 ,99,4,150z,15z
+290,012F,Poison sac ,毒袋 ,99,4,No Sale,96z
+291,0130,Stun sac ,麻痺袋 ,99,4,No Sale,120z
+292,0132,Sleep sac ,睡眠袋 ,99,4,No Sale,340z
+293,0134,Flame sac ,火炎袋 ,99,4,No Sale,240z
+294,0135,Electro sac ,電気袋 ,99,4,No Sale,480z
+295,0136,Power Extract ,狂走エキス ,20,3,No Sale,56z
+296,0137,Pale Extract ,アルビノエキス ,20,3,No Sale,122z
+297,0138,Sml Monster Bone ,竜骨【小】 ,99,3,100z,10z
+298,0139,Med Monster Bone ,竜骨【中】 ,99,4,No Sale,210z
+299,013A,Lrg Monster Bone ,竜骨【大】 ,99,5,No Sale,440z
+300,013B,Hard Monster Bone ,堅竜骨 ,99,5,No Sale,560z
+301,013C,Dragon Bone ,古龍骨 ,99,4,No Sale,880z
+302,013D,Mystery Bone ,なぞの骨 ,99,1,No Sale,1z
+303,013E,Unknown Skull ,なぞの頭骨 ,99,4,No Sale,120z
+304,013F,Masters Skull ,達人のドクロ ,99,5,No Sale,1250z
+305,0140,Bone ,棒状の骨 ,99,1,No Sale,15z
+306,0141,Large Bone ,大きな骨 ,99,4,No Sale,50z
+307,0142,Wyvern Fang ,竜の牙 ,99,3,58z,6z
+308,0143,Wyvern Claw ,竜の爪 ,50,3,180z,18z
+309,0144,Dragon Ruby ,竜玉 ,50,4,No Sale,6000z
+310,0145,Wyvern Tear ,竜のナミダ ,10,5,No Sale,500z
+311,0146,Territorial Dung ,なわばりのフン ,10,5,No Sale,500z
+312,0147,Crab Pearl ,ヤド真珠 ,10,5,No Sale,500z
+313,0148,Dragon Treasure ,龍秘宝 ,10,5,No Sale,800z
+314,0149,Chipped Kusha Scale ,朽ちた龍鱗 ,99,5,No Sale,320z
+315,014A,Dragon Stone ,龍薬石 ,10,5,No Sale,500z
+316,014B,Mosswine Hide ,モスの苔皮 ,99,4,No Sale,36z
+317,014C,Mosswine Head ,モスの頭 ,99,4,No Sale,12z
+318,014D,Bullfango Pelt ,ファンゴの毛皮 ,50,1,No Sale,40z
+319,014E,Bullfango Head ,ファンゴの頭 ,99,4,No Sale,130z
+320,014F,Dosfango Hide ,大猪の皮 ,99,3,No Sale,100z
+321,0150,Dosfango Hide+ ,大猪の硬い皮 ,99,4,No Sale,200z
+322,0151,Kelbi Horn ,ケルビの角 ,99,4,520z,52z
+323,0152,Kelbi Hide ,ケルビの皮 ,50,1,No Sale,24z
+324,0153,Moose Hide ,ガウシカの毛皮 ,99,3,No Sale,35z
+325,0154,Moose Horn ,ガウシカの角 ,99,4,No Sale,58z
+326,0155,Velociprey Fang ,ランポスの牙 ,99,2,82z,15z
+327,0156,Velociprey Scale ,ランポスの鱗 ,50,3,No Sale,40z
+328,0157,Velociprey Scale+ ,ランポスの上鱗 ,99,5,No Sale,120z
+329,0158,Velociprey Hide ,ランポスの皮 ,50,3,No Sale,28z
+330,0159,Velocidrome Hide ,ドスランポスの皮 ,50,5,No Sale,240z
+331,015A,Velocidrome Claw ,ドスランポスの爪 ,99,5,No Sale,200z
+332,015B,Velocidrome Claw+ ,ランポスの尖爪 ,99,5,No Sale,550z
+333,015C,Velocidrome Head ,ドスランポスの頭 ,99,5,No Sale,560z
+334,015D,White Velociprey Scale ,ランポスの白鱗 ,99,5,No Sale,360z
+335,015E,White Velociprey Hide ,ランポスの白皮 ,99,5,No Sale,252z
+336,015F,Genprey Fang ,ゲネポスの麻痺牙 ,99,2,80z,35z
+337,0160,Genprey Scale ,ゲネポスの鱗 ,50,3,No Sale,40z
+338,0161,Genprey Scale+ ,ゲネポスの上鱗 ,99,5,No Sale,180z
+339,0162,Genprey Hide ,ゲネポスの皮 ,50,3,No Sale,28z
+340,0163,Gendrome Hide ,ドスゲネポスの皮 ,99,4,No Sale,560z
+341,0164,Gendrome Head ,ドスゲネポスの頭 ,99,4,No Sale,880z
+342,0165,Ioprey Fang ,イーオスの毒牙 ,99,2,50z,25z
+343,0166,Ioprey Scale ,イーオスの鱗 ,50,3,No Sale,40z
+344,0167,Ioprey Scale+ ,イーオスの上鱗 ,99,5,No Sale,240z
+345,0168,Ioprey Hide ,イーオスの皮 ,50,3,No Sale,28z
+346,0169,Iodrome Hide ,ドスイーオスの皮 ,99,4,No Sale,560z
+347,016A,Iodrome Head ,ドスイーオスの頭 ,99,4,No Sale,770z
+348,016B,Kut-Ku Scale ,怪鳥の鱗 ,99,4,1500z,150z
+349,016C,Kut-Ku Shell ,怪鳥の甲殻 ,99,4,No Sale,345z
+350,016D,Kut-Ku Shell+ ,怪鳥の堅殻 ,99,5,No Sale,690z
+351,016E,Kut-Ku Ear ,怪鳥の耳 ,99,5,No Sale,1280z
+352,016F,Kut-Ku Ear+ ,怪鳥の地獄耳 ,99,5,No Sale,1600z
+353,0170,Giant Beak ,巨大なクチバシ ,99,5,No Sale,1500z
+354,0171,Splendid Beak ,立派なクチバシ ,99,5,No Sale,2250z
+355,0172,Kut-Ku Webbing ,怪鳥の翼膜 ,99,4,No Sale,650z
+356,0173,Blue Kut-Ku Scale ,青怪鳥の鱗 ,99,5,No Sale,400z
+357,0174,Blue Kut-Ku Shell ,青怪鳥の甲殻 ,99,5,No Sale,550z
+358,0175,Blue Kut-Ku Shell+ ,青怪鳥の堅殻 ,99,5,No Sale,1380z
+359,0176,Rubbery Hide ,ゴム質の皮 ,99,4,No Sale,370z
+360,0177,Rubbery Hide+ ,ゴム質の上皮 ,99,5,No Sale,740z
+361,0178,Gypceros Head ,毒怪鳥の頭 ,99,5,No Sale,2200z
+362,0179,Purple Rubbery Hide ,ゴム質の紫皮 ,99,5,No Sale,620z
+363,017A,Gypceros Wing ,毒怪鳥の紫翼 ,99,5,No Sale,2300z
+364,017B,Piscine Liver ,魚竜のキモ ,10,3,No Sale,300z
+365,017C,Piscine Fang ,魚竜の牙 ,99,4,No Sale,250z
+366,017D,Plesioth Scale ,水竜の鱗 ,99,4,No Sale,480z
+367,017E,Plesioth Scale+ ,水竜の上鱗 ,99,5,No Sale,1780z
+368,017F,Plesioth Fin ,水竜のヒレ ,99,5,No Sale,820z
+369,0180,Green Plesioth Scale ,翠水竜の鱗 ,99,5,No Sale,2560z
+370,0181,Green Plesioth Fin ,翠水竜のヒレ ,99,5,No Sale,3280z
+371,0182,Cephalos Scale ,砂竜の鱗 ,99,4,No Sale,400z
+372,0183,Cephalos Scale+ ,砂竜の上鱗 ,99,5,No Sale,1440z
+373,0184,Cephalos Fin ,砂竜のヒレ ,99,5,No Sale,550z
+374,0185,Cephalos Fin+ ,砂竜の上ビレ ,99,5,No Sale,1050z
+375,0186,Cephalos Purple Scale ,砂竜の紫鱗 ,99,5,No Sale,2400z
+376,0187,Cephalos Pink Fin ,砂竜の桃ヒレ ,99,5,No Sale,2750z
+377,0188,Rathian Scale ,雌火竜の鱗 ,99,4,No Sale,490z
+378,0189,Rathian Scale+ ,雌火竜の上鱗 ,99,5,No Sale,1470z
+379,018A,Rathian Plate ,雌火竜の逆鱗 ,99,5,No Sale,4850z
+380,018B,Rathian Ruby ,雌火竜の紅玉 ,99,5,No Sale,9700z
+381,018C,Rathian Shell ,雌火竜の甲殻 ,99,4,No Sale,650z
+382,018D,Rathian Shell+ ,雌火竜の堅殻 ,99,5,No Sale,1950z
+383,018E,Rathian Spike ,雌火竜の棘 ,99,5,No Sale,300z
+384,018F,Rathian Spike+ ,雌火竜の上棘 ,99,5,No Sale,1000z
+385,0190,Rio Heart Scale ,桜火竜の鱗 ,99,5,No Sale,735z
+386,0191,Rio Heart Scale+ ,桜火竜の上鱗 ,99,5,No Sale,2450z
+387,0192,Rio Heart Shell ,桜火竜の甲殻 ,99,5,No Sale,975z
+388,0193,Rio Heart Shell+ ,桜火竜の堅殻 ,99,5,No Sale,3250z
+389,0194,Gold Lunar Scale+ ,金火竜の上鱗 ,99,5,No Sale,2200z
+390,0195,Gold Lunar Shell+ ,金火竜の堅殻 ,99,5,No Sale,3900z
+391,0196,Rath Wingclaw ,火竜の翼爪 ,99,4,No Sale,600z
+392,0197,Wyvern Marrow ,火竜の骨髄 ,99,5,No Sale,2100z
+393,0198,Rathalos Scale ,火竜の鱗 ,99,4,No Sale,490z
+394,0199,Rathalos Scale+ ,火竜の上鱗 ,99,5,No Sale,1470z
+395,019A,Rathalos Plate ,火竜の逆鱗 ,99,5,No Sale,4850z
+396,019B,Rathalos Ruby ,火竜の紅玉 ,99,5,No Sale,9700z
+397,019C,Rathalos Shell ,火竜の甲殻 ,99,4,No Sale,650z
+398,019D,Rathalos Shell+ ,火竜の堅殻 ,99,5,No Sale,1950z
+399,019E,Rathalos Tail ,火竜の尻尾 ,99,5,No Sale,1200z
+400,019F,Rathalos Webbing ,火竜の翼膜 ,99,4,No Sale,880z
+401,01A0,Rathalos Wing ,火竜の翼 ,99,5,No Sale,2550z
+402,01A1,Rio Soul Scale ,蒼火竜の鱗 ,99,5,No Sale,735z
+403,01A2,Rio Soul Scale+ ,蒼火竜の上鱗 ,99,5,No Sale,1960z
+404,01A3,Rio Soul Shell ,蒼火竜の甲殻 ,99,5,No Sale,975z
+405,01A4,Rio Soul Shell+ ,蒼火竜の堅殻 ,99,5,No Sale,2600z
+406,01A5,Rio Soul Tail ,蒼火竜の尻尾 ,99,5,No Sale,1800z
+407,01A6,Rio Soul Wing ,蒼火竜の翼 ,99,5,No Sale,5100z
+408,01A7,Silver Sol Scale+ ,銀火竜の上鱗 ,99,5,No Sale,2200z
+409,01A8,Silver Sol Shell+ ,銀火竜の堅殻 ,99,5,No Sale,3900z
+410,01A9,Silver Sol Tail ,銀火竜の尻尾 ,99,5,No Sale,4800z
+411,01AA,Silver Sol Webbing ,銀火竜の翼膜 ,99,5,No Sale,3520z
+412,01AB,Silver Sol Wing ,銀火竜の翼 ,99,5,No Sale,10200z
+413,01AC,Flabby Hide ,ブヨブヨした皮 ,99,4,No Sale,760z
+414,01AD,Khezu Hide ,真珠色の柔皮 ,99,5,No Sale,1520z
+415,01AE,Pale Bone ,アルビノの中落ち ,99,5,No Sale,2380z
+416,01AF,Khezu Marbling ,アルビノの霜降り ,99,5,No Sale,3580z
+417,01B0,Bloody Hide ,魅惑色の柔皮 ,99,5,No Sale,1620z
+418,01B1,Bloody Webbing ,魅惑色の翼膜 ,99,5,No Sale,2400z
+419,01B2,Basarios Shell ,岩竜の甲殻 ,99,4,No Sale,440z
+420,01B3,Basarios Shell+ ,岩竜の堅殻 ,99,5,No Sale,2200z
+421,01B4,Basarios Wing ,岩竜の翼 ,99,5,No Sale,1420z
+422,01B5,Gravios Marrow ,鎧竜の骨髄 ,99,5,No Sale,2200z
+423,01B6,Gravios Shell ,鎧竜の甲殻 ,99,4,No Sale,970z
+424,01B7,Gravios Shell+ ,鎧竜の堅殻 ,99,5,No Sale,1880z
+425,01B8,Gravios Skull ,鎧竜の頭殻 ,99,5,No Sale,2550z
+426,01B9,Black Gravios Shell ,黒鎧竜の甲殻 ,99,5,No Sale,3760z
+427,01BA,Black Gravios Shell+ ,黒鎧竜の堅殻 ,99,5,No Sale,5640z
+428,01BB,Black Gravios Skull ,黒鎧竜の頭殻 ,99,5,No Sale,7650z
+429,01BC,Twisted Horn ,ねじれた角 ,99,4,No Sale,780z
+430,01BD,Majestic Horn ,上質なねじれた角 ,99,5,No Sale,2400z
+431,01BE,Diablos Shell ,角竜の甲殻 ,99,4,No Sale,850z
+432,01BF,Diablos Shell+ ,角竜の堅殻 ,99,5,No Sale,1950z
+433,01C0,Diablos Spine ,角竜の背甲 ,99,5,No Sale,1340z
+434,01C1,Diablos Spine+ ,角竜の堅甲 ,99,5,No Sale,4020z
+435,01C2,Diablos Tail ,角竜の尻尾 ,99,5,No Sale,1280z
+436,01C3,Blos Fang ,角竜の牙 ,99,4,No Sale,650z
+437,01C4,Black Horn ,黒巻き角 ,99,5,No Sale,9600z
+438,01C5,Black Diablos Shell ,黒角竜の甲殻 ,99,5,No Sale,1900z
+439,01C6,Black Diablos Spine ,黒角竜の背甲 ,99,5,No Sale,4040z
+440,01C7,Black Diablos Tail ,黒角竜の尻尾 ,99,5,No Sale,3680z
+441,01C8,Black Diablos Shell+ ,黒角竜の堅殻 ,99,5,No Sale,3280z
+442,01C9,Vespoid Abdomen ,女王虫の尻尾 ,99,5,No Sale,1800z
+443,01CA,Vespoid Shell ,ランゴスタの甲殻 ,99,4,No Sale,120z
+444,01CB,Vespoid Shell+ ,ランゴスタの堅殻 ,99,5,No Sale,240z
+445,01CC,Vespoid Wing ,ランゴスタの羽 ,99,4,No Sale,73z
+446,01CD,Vespoid Bladefin ,ランゴスタの薄羽 ,99,4,No Sale,256z
+447,01CE,Hornetaur Shell ,カンタロスの甲殻 ,99,4,No Sale,120z
+448,01CF,Hornetaur Head ,カンタロスの頭 ,99,4,No Sale,175z
+449,01D0,Hornetaur Wing ,カンタロスの羽 ,99,4,No Sale,73z
+450,01D1,Hornetaur Bladefin ,カンタロスの薄羽 ,99,5,No Sale,256z
+451,01D2,Sm Lobstershell ,エビの小殻 ,99,5,No Sale,1500z
+452,01D3,Lg Lobstershell ,エビの大殻 ,99,5,No Sale,2500z
+453,01D4,Giant Lobstershell ,エビの巨大殻 ,99,5,No Sale,3500z
+454,01D5,King Lobstershell ,アメザリの甲殻 ,99,5,No Sale,3000z
+455,01D6,Crimson Horn ,真紅の角 ,99,5,No Sale,1520z
+456,01D7,Monoblos Shell ,一角竜の甲殻 ,99,4,No Sale,650z
+457,01D8,Monoblos Spine ,一角竜の背甲 ,99,5,No Sale,1340z
+458,01D9,Monoblos Heart ,モノブロスハート ,10,5,No Sale,10000z
+459,01DA,Silver Horn ,白銀の角 ,99,5,No Sale,2280z
+460,01DB,Monodevil Shell ,白一角竜の甲殻 ,99,5,No Sale,975z
+461,01DC,Monodevil Spine ,白一角竜の背甲 ,99,5,No Sale,2010z
+462,01DD,Kirin Horn ,キリンの雷角 ,99,5,No Sale,2200z
+463,01DE,Kirin Hide ,キリンの皮 ,99,5,No Sale,3250z
+464,01DF,Kirin Hide+ ,キリンの上皮 ,99,5,No Sale,5000z
+465,01E0,Kirin Mane ,キリンのたてがみ ,99,5,No Sale,1200z
+466,01E1,Kirin Tail ,キリンの雷尾 ,99,5,No Sale,4500z
+467,01E2,Kirin Blue Horn ,キリンの蒼角 ,99,5,No Sale,5500z
+468,01E3,Lao-Shan's Claw ,老山龍の大爪 ,99,5,No Sale,1920z
+469,01E4,Lao-Shan's Horn ,老山龍の角 ,99,5,No Sale,1700z
+470,01E5,Lao-Shan's Scale ,老山龍の鱗 ,99,5,No Sale,650z
+471,01E6,Lao-Shan's Ruby ,老山龍の紅玉 ,99,5,No Sale,20000z
+472,01E7,Lao-Shan's Shell ,老山龍の甲殻 ,99,5,No Sale,900z
+473,01E8,Lao-Shan's Shell+ ,老山龍の堅殻 ,99,5,No Sale,2700z
+474,01E9,Lao-Shan's Azure Horn ,老山龍の蒼角 ,99,5,No Sale,5100z
+475,01EA,Lao-Shan's Azure Shell ,老山龍の蒼甲殻 ,99,5,No Sale,3375z
+476,01EB,Fatalis' Horn ,黒龍の角 ,99,5,No Sale,1088z
+477,01EC,Fatalis' Scale ,黒龍の鱗 ,99,5,No Sale,1068z
+478,01ED,Fatalis' Shell ,黒龍の甲殻 ,99,5,No Sale,1395z
+479,01EE,Fatalis Eye ,黒龍の眼 ,99,5,No Sale,9600z
+480,01EF,Fatalis Webbing ,黒龍の翼膜 ,99,5,No Sale,1965z
+481,01F0,Fatalis Crimson Horn ,黒龍の紅角 ,99,5,No Sale,6528z
+482,01F1,Fatalis Crimson Scale ,黒龍の紅鱗 ,99,5,No Sale,4272z
+483,01F2,Fatalis Crimson Shell ,黒龍の紅殻 ,99,5,No Sale,5580z
+484,01F3,Fatalis Evil Eye ,黒龍の魔眼 ,99,5,No Sale,25000z
+485,01F4,Fatalis Crimson Webbing ,黒龍の紅翼 ,99,5,No Sale,7860z
+486,01F5,Fatalis White Scale ,祖龍の白鱗 ,99,5,No Sale,8852z
+487,01F6,Fatalis White Shell ,祖龍の堅殻 ,99,5,No Sale,10230z
+488,01F7,Fatalis White Webbing ,祖龍の翼膜 ,99,5,No Sale,9900z
+489,01F8,Fatalis White Horn ,祖龍の角 ,99,5,No Sale,12300z
+490,01FB,Sharp Claw ,とがった爪 ,99,3,No Sale,120z
+491,01FC,Dodobrango Fang ,雪獅子の牙 ,99,5,No Sale,1350z
+492,01FD,Dodobrango Fang+ ,雪獅子の鋭牙 ,99,5,No Sale,2150z
+493,01FE,Brango Hide ,雪獅子の毛 ,99,4,No Sale,80z
+494,01FF,Brango Hide+ ,雪獅子の剛毛 ,99,4,No Sale,250z
+495,0200,Dodobrango Mustash ,雪獅子の髭 ,99,5,No Sale,820z
+496,0201,Dodobrango tail ,雪獅子の尻尾 ,99,5,No Sale,980z
+497,0202,Konga Hide ,桃毛獣の毛 ,99,4,No Sale,75z
+498,0203,Babakonga Hair ,極彩色の毛 ,99,5,No Sale,980z
+499,0204,Konga Claw ,桃毛獣の爪 ,99,4,No Sale,880z
+500,0205,Konga Fang ,桃毛獣の牙 ,99,5,No Sale,770z
+501,0206,Konga Hide+ ,桃毛獣の剛毛 ,99,5,No Sale,180z
+502,0207,Konga Claw+ ,桃毛獣の尖爪 ,99,5,No Sale,1500z
+503,0209,Rahjan Horn+ ,金獅子の尖角 ,99,5,No Sale,3200z
+504,020A,Rahjan Fang+ ,金獅子の鋭牙 ,99,5,No Sale,1500z
+505,020B,Rahjan Hide ,金獅子の黒毛 ,99,5,No Sale,1200z
+506,020C,Rahjan Claw+ ,金獅子の尖爪 ,99,5,No Sale,2200z
+507,020D,Rahjan Tail ,金獅子の尻尾 ,99,5,No Sale,4500z
+508,020E,Golden Hide ,黄金の毛 ,99,5,No Sale,8880z
+509,020F,Zazamiso ,ザザミソ ,10,2,No Sale,50z
+510,0210,Wyvern Skull ,竜頭殻 ,99,4,No Sale,780z
+511,0211,Zazami sm Shell ,盾蟹の小殻 ,99,2,No Sale,45z
+512,0212,Zazami Shell ,盾蟹の甲殻 ,99,4,No Sale,550z
+513,0213,Zazami Claw ,盾蟹の爪 ,99,4,No Sale,1350z
+514,0214,Zazami Shell+ ,盾蟹の堅殻 ,99,4,No Sale,1050z
+515,0215,Zazami Claw+ ,盾蟹の尖爪 ,99,5,No Sale,1950z
+516,0217,Gizami sm Shell ,鎌蟹の小殻 ,99,2,No Sale,55z
+517,0218,Gizami Shell ,鎌蟹の甲殻 ,99,4,No Sale,720z
+518,0219,Gizami Shell+ ,鎌蟹の堅殻 ,99,4,No Sale,2500z
+519,021A,Gizami Leg ,鎌蟹の脚 ,99,4,No Sale,750z
+520,021B,Gizami Pincer ,鎌蟹の鋏 ,99,4,No Sale,1800z
+521,021C,Gizami Claw ,鎌蟹の爪 ,99,4,No Sale,1200z
+522,021D,Gizami Claw+ ,鎌蟹の尖爪 ,99,5,No Sale,3500z
+523,021F,Shen Gaoren Shell ,砦蟹の甲殻 ,99,5,No Sale,1400z
+524,0220,Shen Gaoren Spine ,砦蟹の背甲 ,99,5,No Sale,3000z
+525,0221,Shen Gaoren Pincer ,砦蟹の鋏 ,99,5,No Sale,2150z
+526,0222,Shen Gaoren Claw+ ,砦蟹の尖爪 ,99,5,No Sale,3200z
+527,0224,Kushal Shell ,鋼龍の甲殻 ,99,5,No Sale,1300z
+528,0225,Kushal Shell+ ,鋼龍の堅殻 ,99,5,No Sale,3200z
+529,0226,Kushal Scale ,鋼の龍鱗 ,99,5,No Sale,800z
+530,0227,Kushal Webbing ,鋼龍の翼膜 ,99,5,No Sale,1800z
+531,0228,Kushal Horn ,鋼龍の角 ,99,5,No Sale,2450z
+532,0229,Kushal Tail ,鋼龍の尻尾 ,99,5,No Sale,2250z
+533,022A,Kushal Claw ,鋼龍の爪 ,99,5,No Sale,2100z
+534,022B,Kushal Claw+ ,鋼龍の尖爪 ,99,5,No Sale,3600z
+535,022C,Kushal Ruby ,鋼龍の宝玉 ,99,5,No Sale,4000z
+536,022D,Rusted Kushal Shell ,錆びた甲殻 ,99,5,No Sale,1000z
+537,022E,Chipped Kushal Webbing ,朽ちた龍翼 ,99,5,No Sale,1500z
+538,022F,Rusted Kushal Webbing ,錆びた龍翼 ,99,5,No Sale,2800z
+539,0230,Onazuchi Hide ,霞龍の皮 ,99,5,No Sale,1250z
+540,0231,Onazuchi Hide+ ,霞龍の上皮 ,99,5,No Sale,1840z
+541,0232,Onazuchi Horn ,霞龍の角 ,99,5,No Sale,2680z
+542,0233,Onazuchi Horn+ ,霞龍の尖角 ,99,5,No Sale,3220z
+543,0234,Onazuchi Claw ,霞龍の爪 ,99,5,No Sale,2800z
+544,0235,Onazuchi Webbing ,霞龍の翼膜 ,99,5,No Sale,1760z
+545,0236,Onazuchi Tail ,霞龍の尻尾 ,99,5,No Sale,3800z
+546,0237,Onazuchi Ruby ,霞龍の宝玉 ,99,5,No Sale,4000z
+547,0239,Teska Scale ,炎の龍鱗 ,99,5,No Sale,1050z
+548,023A,Teska Claw ,炎龍の爪 ,99,5,No Sale,1200z
+549,023B,Teo Powder ,炎龍の塵粉 ,99,5,No Sale,3250z
+550,023C,Teo Ruby ,炎龍の宝玉 ,99,5,No Sale,4000z
+551,023D,Dragon Blood ,古龍の血 ,99,5,No Sale,1500z
+552,023E,Teska Scale+ ,獄炎の龍鱗 ,99,5,No Sale,1800z
+553,023F,Nana Shell ,炎妃龍の甲殻 ,99,5,No Sale,1800z
+554,0240,Nana Mane ,炎妃龍のたてがみ ,99,5,No Sale,1900z
+555,0241,Nana Webbing ,炎妃龍の翼膜 ,99,5,No Sale,1600z
+556,0242,Nana Tail ,炎妃龍の尻尾 ,99,5,No Sale,2500z
+557,0243,Nana Horn ,炎妃龍の角 ,99,5,No Sale,2000z
+558,0245,Teo Shell ,炎王龍の甲殻 ,99,5,No Sale,1800z
+559,0246,Teo Shell+ ,炎王龍の堅殻 ,99,5,No Sale,3200z
+560,0247,Teo Mane ,炎王龍のたてがみ ,99,5,No Sale,1900z
+561,0248,Teo Webbing ,炎王龍の翼膜 ,99,5,No Sale,1600z
+562,0249,Teo Tail ,炎王龍の尻尾 ,99,5,No Sale,2500z
+563,024A,Teo Horn ,炎王龍の角 ,99,5,No Sale,2000z
+564,024B,Teo Horn+ ,炎王龍の尖角 ,99,5,No Sale,2800z
+565,024C,Yamatsukami Fin ,浮岳龍のヒレ ,99,5,No Sale,2500z
+566,024D,Yamatukami Hide ,浮岳龍の皮 ,99,5,No Sale,1580z
+567,024E,Yamatukami Fluid ,浮岳龍の体液 ,99,5,No Sale,2500z
+568,024F,Dragon Moss ,龍苔 ,99,5,No Sale,3050z
+569,0250,Dragon Tree ,龍木 ,99,5,No Sale,2135z
+570,0252,Snake Hide ,蛇竜の皮 ,99,4,No Sale,180z
+571,0253,Snake Hide+ ,蛇竜の上皮 ,99,4,No Sale,450z
+572,0254,Striped Hide ,縞模様の皮 ,99,4,No Sale,290z
+573,0255,Snake Head ,蛇竜の頭 ,99,4,No Sale,750z
+574,0256,Garuruga Scale ,黒狼鳥の鱗 ,99,4,No Sale,400z
+575,0257,Garuruga Shell ,黒狼鳥の甲殻 ,99,4,No Sale,650z
+576,0258,Garuruga Ear ,黒狼鳥の耳 ,99,4,No Sale,1500z
+577,0259,Garuruga Beak ,尖ったクチバシ ,99,4,No Sale,1800z
+578,025A,Garuruga Wing ,黒狼鳥の翼 ,99,4,No Sale,1950z
+579,025B,Garuruga Tail ,黒狼鳥の尻尾 ,99,4,No Sale,1500z
+580,025C,Garuruga Mane ,黒狼鳥のたてがみ ,99,4,No Sale,1800z
+581,025D,Lost Umbrella ,落し物の傘 ,99,5,No Sale,1240z
+582,025E,Village Chief's Old Sword ,村長の古い剣 ,1,5,No Sale,1000z
+583,025F,Fist of Statue ,石像の拳 ,99,4,No Sale,1880z
+584,0260,Broken G Lance ,折れた撃龍槍 ,99,4,No Sale,1530z
+585,0261,Great Chain ,豪腕の鎖 ,1,5,No Sale,120z
+586,0263,Rusted Stone ,さびた塊 ,1,5,No Sale,180z
+587,0264,Rusted Plate Stone ,さびた板状の塊 ,1,5,No Sale,180z
+588,0265,Rusted Lg Stone ,さびた大きな塊 ,1,5,No Sale,180z
+589,0266,Rusted Sm Stone ,さびた小さな塊 ,1,5,No Sale,180z
+590,0267,Rusted Rod Stone ,さびた棒状の塊 ,1,5,No Sale,180z
+591,0268,Ancient Stone ,太古の塊 ,1,5,No Sale,360z
+592,0269,Ancient Plate Stone ,太古の板状の塊 ,1,5,No Sale,360z
+593,026A,Ancient Lg Stone ,太古の大きな塊 ,1,5,No Sale,360z
+594,026B,Abcient Sm Stone ,太古の小さな塊 ,1,5,No Sale,360z
+595,026C,Ancient Rod Stone ,太古の棒状の塊 ,1,5,No Sale,360z
+596,026D,Storage book:Technique ,収納上手・技の書 ,1,4,3000z,0z
+597,026E,Storage book:Power ,収納上手・力の書 ,1,5,10000z,0z
+598,026F,Rebuilding book:Pro ,改築上手・匠の技 ,1,4,20000z,0z
+599,0270,Rebuilding book:Money ,改築上手・銭の技 ,1,5,30000z,0z
+600,0271,Humanoid Info ,獣人種の書 ,1,1,100z,0z
+601,0272,Chachaboo Info ,チャチャブーの書 ,1,1,100z,0z
+602,0273,Coleopterous Info ,甲虫種の書 ,1,1,100z,0z
+603,0274,Lightning Bug Info ,大雷光虫の書 ,1,1,100z,0z
+604,0275,Herbivora Info ,草食種の書 ,1,1,100z,0z
+605,0276,Dromes Info ,鳥竜種の書 ,1,1,200z,0z
+606,0277,Iyan Garuruga Info ,イャンガルルガの書 ,1,1,No Sale,0z
+607,0278,Wyvern Info 1 ,飛竜種の書【上巻】 ,1,1,200z,0z
+608,0279,Wyvern Info 2 ,飛竜種の書【下巻】 ,1,2,200z,0z
+609,027A,Rathalos Info ,リオレウスの書 ,1,2,200z,0z
+610,027B,Monoblos Info ,モノブロスの書 ,1,2,200z,0z
+611,027C,Aquatic Wyvern Info ,魚竜種の書 ,1,2,200z,0z
+612,027D,Crustacea Info 1 ,甲殻種の書【上巻】 ,1,2,200z,0z
+613,027E,Crustacea Info 2 ,甲殻種の書【下巻】 ,1,2,200z,0z
+614,027F,Shengaoren Info ,シェンガオレンの書 ,1,3,No Sale,0z
+615,0280,Monkey Info ,牙獣種の書 ,1,3,200z,0z
+616,0281,Dodobrango Info ,ドドブランゴの書 ,1,3,200z,0z
+617,0282,Rahjan Info ,ラージャンの書 ,1,3,500z,0z
+618,0283,Kirin Info ,キリンの書 ,1,3,500z,0z
+619,0284,Kusharudaora Info ,クシャルダオラの書 ,1,3,500z,0z
+620,0285,Onazuchi Info ,オオナズチの書 ,1,3,500z,0z
+621,0286,Nana Teskatory Info ,ナナ・テスカトリの書 ,1,3,500z,0z
+622,0287,Teo Teskator Info ,テオ・テスカトルの書 ,1,3,500z,0z
+623,0288,Lao Shan Lung Info ,ラオシャンロンの書 ,1,3,500z,0z
+624,0289,Yamatsukami Info ,ヤマツカミの書 ,1,3,No Sale,0z
+625,028A,Fatalis Info ,ミラボレアスの書 ,1,3,No Sale,0z
+626,028F,Silver Egg ,銀のたまご ,10,5,No Sale,5000z
+627,0290,Golden Egg ,金のたまご ,5,5,No Sale,10000z
+628,0291,map ,地図 ,1,1,No Sale,0z
+629,0292,first-aid med ,応急薬 ,10,1,No Sale,0z
+630,0293,ration ,携帯食料 ,10,1,No Sale,0z
+631,0294,Portable BBQpit ,携帯肉焼きセット ,1,1,No Sale,0z
+632,0295,Mini Whetstone ,携帯砥石 ,10,1,No Sale,0z
+633,0296,Portable Paralyze Trap ,携帯シビレ罠 ,1,3,No Sale,0z
+634,0297,Supplied Flash Bomb ,支給専用閃光玉 ,5,2,No Sale,0z
+635,0298,Supplied Max Potion ,支給専用秘薬 ,3,2,No Sale,0z
+636,0299,Supplied Pitfall Trap ,支給専用落とし穴 ,1,3,No Sale,0z
+637,029A,Supplied Lg Barrel Bomb ,支給用大タル爆弾 ,2,3,No Sale,0z
+638,029B,Ballista Bullets ,バリスタの弾 ,10,5,No Sale,0z
+639,029C,Cannon Ball ,大砲の弾 ,1,5,No Sale,0z
+640,029E,Wyvern Egg ,飛竜の卵 ,1,5,No Sale,0z
+641,029F,Herbivore Egg ,草食竜の卵 ,1,5,No Sale,0z
+642,02A0,Carnivorous Egg ,肉食竜の卵 ,1,5,No Sale,0z
+643,02A1,Rough Gray Crystal ,灰水晶の原石 ,1,5,No Sale,0z
+644,02A2,Rough White Crystal ,白水晶の原石 ,1,5,No Sale,0z
+645,02A3,Firecell Stone ,火薬岩 ,1,5,No Sale,0z
+646,02A4,Khezu larva ,フルフルベビー ,1,5,No Sale,156z
+647,02A5,Khezu Icecream ,フルベビアイス ,10,5,No Sale,500z
+648,02A6,Guild Flag ,ギルドフラッグ ,1,3,No Sale,0z
+649,02A8,Strange Dragon Food ,奇天烈フード ,10,4,No Sale,100z
+650,02A9,Giant Dragon Food ,巨龍フード ,10,5,No Sale,100z
+651,02AA,Strong Dragon Food ,強龍フード ,10,5,No Sale,100z
+652,02AB,Dragon Food ,龍フード ,10,4,No Sale,5z
+653,02AC,Ultimate Dragon Food ,龍フード・極み ,10,5,No Sale,100z
+654,02AD,Red Dragon Food ,紅い龍フード ,10,4,No Sale,50z
+655,02AE,Green Dragon Food ,翠の龍フード ,10,4,No Sale,50z
+656,02AF,Blue Dragon Food ,蒼い龍フード ,10,4,No Sale,50z
+657,02B0,Breath Attack Flute ,弾撃笛 ,1,4,No Sale,10z
+658,02B1,Charge Attack Flute ,突撃笛 ,1,4,No Sale,10z
+659,02B2,Tail Attack Flute ,尾撃笛 ,1,4,No Sale,10z
+660,02B3,Special Attack Flute ,必撃笛 ,1,4,No Sale,10z
+661,02B4,Special Attack Flute+ ,特撃笛 ,1,4,No Sale,10z
+662,02B5,Anger F ,逆鱗笛 ,1,4,No Sale,10z
+663,02B6,G Lance Key ,撃龍槍の鍵 ,10,2,No Sale,0z
+664,02B8,PvP Ticket ,闘技会チケット ,5,5,No Sale,0z
+665,02BD,Song of Soul ,魂を宿す唄 ,99,4,No Sale,500z
+666,02BE,Song of Spirit ,精霊へ歌う唄 ,99,4,No Sale,500z
+667,02BF,Song of Life ,生命に捧ぐ唄 ,99,4,No Sale,500z
+668,02C0,Song of Beginning ,始まりの唄 ,99,5,No Sale,1000z
+669,02C1,Flute Note ,狩猟笛の楽譜 ,1,4,300z,30z
+670,02C2,Ancient Flute Note ,古の狩猟笛の楽譜 ,1,4,800z,80z
+671,02C3,White Belt Coin ,シロオビコイン ,99,4,No Sale,50z
+672,02C4,Black Belt Cion ,クロオビコイン ,99,4,No Sale,100z
+673,02C5,Master Coin ,タツジンコイン ,99,4,No Sale,500z
+674,02C6,Dromes Coin ,鳥竜のコイン ,99,4,No Sale,550z
+675,02C7,Wyvern Coin ,飛竜のコイン ,99,4,No Sale,1000z
+676,02C8,Fish Coin ,魚竜のコイン ,99,4,No Sale,750z
+677,02C9,Beast Coin ,牙獣のコイン ,99,4,No Sale,1250z
+678,02CA,Crustacea Coin ,甲殻のコイン ,99,4,No Sale,1500z
+679,02CB,Dragon Coin ,古龍のコイン ,99,4,No Sale,5000z
+680,02CC,Eternity Cion ,永遠のコイン ,99,4,No Sale,1000z
+681,02CD,Luxury Coin ,豪華なコイン ,99,4,No Sale,1250z
+682,02CE,Wisdom Coin ,堅実なコイン ,99,4,No Sale,500z
+683,02CF,Guild Coin ,ギルドコイン ,99,5,No Sale,5000z
+684,02D0,Exploration Compas ,秘境へのコンパス ,1,5,No Sale,300z
+685,02D1,Exploration Map ,秘境への地図 ,1,5,No Sale,100z
+686,02D2,Exploration Binoculars ,秘境への５つ道具 ,1,5,No Sale,500z
+687,02D3,Exploration Tool Set ,秘境セット ,1,5,No Sale,3000z
+688,02D4,Consummation Book ,終焉の書 ,1,5,No Sale,200z
+689,02D5,Legend Book ,伝説の書 ,1,5,No Sale,150z
+690,02D6,Dragon Book ,古龍の書 ,1,5,No Sale,500z
+691,02D7,Ancient Dragon Book ,祖龍の書 ,1,5,No Sale,2500z
+692,02D8,Ancient Tower Info1 ,古塔の断章・前編 ,1,5,No Sale,50z
+693,02D9,Ancient Tower Info2 ,古塔の断章・中編 ,1,5,20000z,2000z
+694,02DA,Ancient Tower Info3 ,古塔の断章・後編 ,1,5,No Sale,50z
+695,02DB,Ancient Tower Book ,古塔の書 ,1,5,No Sale,1000z
+696,02DC,Mouth of an Ancient Pot ,古びたツボの口 ,1,5,No Sale,10000z
+697,02DD,Body of an Ancient Pot ,古びたツボの胴 ,1,5,No Sale,5000z
+698,02DE,Base of an Ancient Pot ,古びたツボの底 ,1,5,No Sale,5000z
+699,02DF,Ancient Pot ,古代のツボ ,1,5,No Sale,0z
+700,02E0,Stardust ,星鉄 ,99,5,No Sale,15z
+701,02E1,Main Sail ,メインセイル ,10,5,No Sale,1000z
+702,02E2,Main Mast ,メインマスト ,10,5,No Sale,300z
+703,02E3,Token of Hunters ,戦友の証 ,99,4,No Sale,5000z
+704,02E4,Bond of Hunters ,戦友の絆 ,99,5,No Sale,500z
+705,02E5,Instructor's Order Form ,教官の注文書 ,99,5,No Sale,0z
+706,02E6,Egg Ticket ,たまご券 ,99,5,No Sale,0z
+707,02E7,Jewel Ticket ,宝石券 ,99,5,No Sale,0z
+708,02E8,Commendation ,勇気の証 ,99,5,No Sale,0z
+709,02E9,Pawprint Ticket ,肉球のハンコ ,99,5,No Sale,0z
+710,02EA,Guild Ticket ,ギルドチケット ,99,5,No Sale,0z
+711,02EC,Ace Hunter Certificate ,一流ハンターの証 ,99,5,No Sale,0z
+712,02ED,GS Ticket ,大剣チケット ,99,5,No Sale,0z
+713,02EE,Hammer Ticket ,ハンマーチケット ,99,5,No Sale,0z
+714,02EF,Lance Ticket ,ランスチケット ,99,5,No Sale,0z
+715,02F0,SnS Ticket ,片手剣チケット ,99,5,No Sale,0z
+716,02F1,Gunner Ticket ,ガンナーチケット ,99,5,No Sale,0z
+717,02F2,Pawprint Stamp ,肉球のスタンプ ,99,5,No Sale,0z
+718,02F3,Famitsu-Ticket ,ファミ通チケット ,99,5,No Sale,0z
+719,02F4,Famitsu-Order Form ,ファミ通の注文書 ,99,5,No Sale,0z
+720,02F5,Dengeki Ticket ,デンゲキチケット ,99,5,No Sale,0z
+721,02F6,Dengeki G Ticket ,電撃Ｇチケット ,99,5,No Sale,0z
+722,02F7,Macha Pot ,マカ漬けの壷 ,3,3,300z,30z
+723,02F8,Macha Pot・Green ,マカ漬けの壷・緑 ,1,3,No Sale,31z
+724,02F9,Macha Pot・Green ,マカ漬けの壷・緑 ,1,3,No Sale,31z
+725,02FA,Macha Pot・Green ,マカ漬けの壷・緑 ,1,3,No Sale,35z
+726,02FB,Macha Pot・Green ,マカ漬けの壷・緑 ,1,3,No Sale,40z
+727,02FC,Macha Pot・Green ,マカ漬けの壷・緑 ,1,3,No Sale,80z
+728,02FD,Macha Pot・Green ,マカ漬けの壷・緑 ,1,5,No Sale,0z
+729,02FE,Macha Pot・Green ,マカ漬けの壷・緑 ,1,5,No Sale,0z
+730,02FF,Macha Pot・Green ,マカ漬けの壷・緑 ,1,3,No Sale,35z
+731,0300,Macha Pot・Green ,マカ漬けの壷・緑 ,1,3,No Sale,31z
+732,0301,Macha Pot・Green ,マカ漬けの壷・緑 ,1,3,No Sale,55z
+733,0302,Macha Pot・Green ,マカ漬けの壷・緑 ,1,5,No Sale,0z
+734,0303,Macha Pot・Green ,マカ漬けの壷・緑 ,1,5,No Sale,0z
+735,0304,Macha Pot・Green ,マカ漬けの壷・緑 ,1,5,No Sale,0z
+736,0305,Macha Pot・Green ,マカ漬けの壷・緑 ,1,5,No Sale,0z
+737,0306,Macha Pot・Red ,マカ漬けの壷・赤 ,1,3,No Sale,30z
+738,0307,Macha Pot・Red ,マカ漬けの壷・赤 ,1,3,No Sale,30z
+739,0308,Macha Pot・Red ,マカ漬けの壷・赤 ,1,3,No Sale,30z
+740,0309,Macha Pot・Red ,マカ漬けの壷・赤 ,1,3,No Sale,30z
+741,030A,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,30z
+742,030B,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,30z
+743,030C,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,32z
+744,030D,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,31z
+745,030E,Macha Pot・Blue ,マカ漬けの壷・青 ,1,5,No Sale,0z
+746,030F,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,77z
+747,0310,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,77z
+748,0311,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,35z
+749,0312,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,50z
+750,0313,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,40z
+751,0314,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,30z
+752,0315,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,50z
+753,0316,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,70z
+754,0317,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,90z
+755,0318,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,35z
+756,0319,Macha Pot・Yellow ,マカ漬けの壷・黄 ,1,3,No Sale,30z
+757,031A,Water gem ,水光原珠 ,99,4,No Sale,200z
+758,031B,White gem ,陽翔原珠 ,99,4,No Sale,350z
+759,031C,Timber Chute gem ,修羅原珠 ,99,5,No Sale,530z
+760,031D,Lazuline gem ,瑠璃原珠 ,99,5,No Sale,880z

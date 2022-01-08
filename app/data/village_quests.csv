@@ -1,0 +1,70 @@
+,rank,name,time,season,area,main,main_reward,full_reward,sub_a,sub_b,sub_a_reward,sub_b_reward
+0,1,Familiarize with the environments of the jungle!,50,Warm,Jungle,Deliver Special Mushroom : X5,300z,850z,Deliver Royal Beetle (ロイヤルカブト): X2,Deliver Raw Meat (生肉): X4,450z,100z
+1,1,Familiarize with the environments of the jungle!,50,Cold,Jungle,Deliver Special Mushroom : X5,300z,850z,Deliver Royal Beetle (ロイヤルカブト): X2,Deliver Raw Meat (生肉): X4,450z,100z
+2,1,Familiarize with the environments of the jungle!,50,Breeding,Jungle,Deliver Special Mushroom : X5,300z,850z,Deliver Royal Beetle (ロイヤルカブト): X2,Deliver Raw Meat (生肉): X4,450z,100z
+3,1,Habitat of the Blue hunter,50,Warm,Jungle,Hunt the Velocidrome,600z,1200z,Hunt 8 Velociprey,Deliver Special Mushroom (特産キノコ): X5,300z,300z
+4,1,Habitat of the Blue hunter,50,Breeding,Jungle,Hunt the Velocidrome,600z,1400z,Deliver Carnivore Egg (肉食竜の卵): X1,Hunt 8 Velociprey,500z,300z
+5,1,Hunt the boar boss!,50,Cold,Jungle,Hunt the Bulldrome,700z,1250z,Hunt 8 Velociprey,Deliver Gold Fish (黄金魚): X1,300z,250z
+6,1,Chasing the mysterious bird,50,Warm,Jungle,Hunt the Yian Kut-Ku,1200z,2100z,Deliver Wyvern Tear (竜のナミダ): X1,Hunt 8 Vespoid,700z,200z
+7,1,Chasing the mysterious bird,50,Breeding,Jungle,Hunt the Yian Kut-Ku,1200z,1950z,Deliver Mature Mushroom (熟成キノコ): X1,Deliver Kelbi Horn (ケルビの角): X5,400z,350z
+8,1,Sight of a blue mysterious bird,50,Cold,Jungle,Hunt the Blue Yian Kut-Ku,1200z,1200z,No Sub,No Sub,0z,0z
+9,1,The runnaway purple poison bird,50,Warm,Jungle,Hunt the Purple Gypceros,1400z,1400z,No Sub,No Sub,0z,0z
+10,2,Daimyo on the shore,50,Warm,Jungle,Hunt the Daimyo Hermitaur,1800z,2900z,Deliver Zazamiso (ザザミソ): X4,Break the Daimyo's Shell,500z,600z
+11,2,Territory of the pink beast,50,Cold,Jungle,Hunt the Congalala,2000z,3000z,Hunt 2 Conga,Deliver Rare Mushroom (厳選キノコ): X2,400z,600z
+12,2,Territory of the pink beast,50,Breeding,Jungle,Hunt the Congalala,2000z,2800z,Deliver Territorial Dung (なわばりのフン): X1,No Sub,800z,0z
+13,2,The land where the Queen dwells,50,Warm,Jungle,Hunt the Rathian,2200z,4400z,Deliver Royal Beetle (ロイヤルカブト): X7,Cut off the Rathian's tail,600z,1600z
+14,2,The land where the Queen dwells,50,Breeding,Jungle,Hunt the Rathian,2200z,3700z,Deliver Wyvern Egg (飛竜の卵): X1,Deliver Carnivore Egg (肉食竜の卵): X1,1000z,500z
+15,2,Cherry Blossom Wyvern of the jungle,50,Cold,Jungle,Hunt the Pink Rathian,2200z,2200z,No Sub,No Sub,0z,0z
+16,3,Jade sinking in the water,50,Warm,Jungle,Hunt the Green Plesioth,2600z,2600z,No Sub,No Sub,0z,0z
+17,4,Incessant Rain in the Jungle,50,Warm,Jungle,Slay the Kushala Daora,3600z,3600z,No Sub,No Sub,0z,0z
+18,1,The leaping hunter of the Desert,50,Cold,Desert,Hunt the Gendrome,800z,1600z,Hunt 6 Genprey,Deliver Cactus (百花サボテン): X1,400z,400z
+19,1,The leaping hunter of the Desert,50,Breeding,Desert,Hunt the Gendrome,800z,2600z,Deliver Herbivore Egg Egg (草食竜の卵): X1,Hunt 4 Apceros,1500z,300z
+20,2,The wyvern that swims in the sand,50,Cold,Desert,Hunt the Cephadrome,1600z,3200z,Deliver Piscine Liver (魚竜のキモ): X3,Hunt 4 Cephalos,1000z,600z
+21,2,The one who succeeds the dead,50,Breeding,Desert,Hunt the Daimyo Hermitaur,1800z,2700z,Deliver Zazamiso (ザザミソ): X4,Hunt 6 Genprey,500z,400z
+22,2,Cherry Blossom Blooming in the Desert,50,Breeding,Desert,Hunt the Pink Rathian,2200z,2200z,No Sub,No Sub,0z,0z
+23,3,Water wyvern of the underground lake,50,Breeding,Desert,Hunt the Plesioth,2600z,3700z,Fish the Plesioth out of the water,Deliver Gold Fish (黄金魚): X2,600z,500z
+24,3,Jade sinking in the water,50,Cold,Desert,Hunt the Green Plesioth,2600z,2600z,No Sub,No Sub,0z,0z
+25,3,Lone Wyvern,50,Breeding,Desert,Hunt the Monoblos,3400z,5900z,Deliver Wyvern Tear (竜のナミダ): X1,Deliver Herbivore Egg Egg (草食竜の卵): X1,1000z,1500z
+26,3,Fury of the white wyvern,50,Cold,Desert,Hunt the White Monoblos,3400z,3400z,No Sub,No Sub,0z,0z
+27,3,Extremly violent ceratopsian wyvern,50,Cold,Desert,Hunt the Diablos,3000z,4400z,Break off both Diablos' horns,Deliver Secret Pouch (秘密のポーチ): X3,1000z,400z
+28,3,Jet Black Ceratopsian Wyvern,50,Breeding,Desert,Hunt the Black Diablos,3000z,3000z,No Sub,No Sub,0z,0z
+29,1,Boar Rush,50,Cold,Swamp,Hunt the Bulldrome,700z,1300z,Hunt 6 Bullfango,Hunt 3 Bullfango,300z,300z
+30,1,Leader of the red poison,50,Warm,Swamp,Hunt the Iodrome,900z,1800z,Hunt 15 Hornetaur,Deliver Special Mushroom (特産キノコ): X10,300z,600z
+31,1,Leader of the red poison,50,Breeding,Swamp,Hunt the Iodrome,900z,1900z,Deliver Mature Mushroom (熟成キノコ): X1,Deliver Special Mushroom (特産キノコ): X10,400z,600z
+32,1,Sight of a blue mysterious bird,50,Warm,Swamp,Hunt the Blue Yian Kut-Ku,1200z,1200z,No Sub,No Sub,0z,0z
+33,1,The runaway poisonous bird of the swamp,50,Warm,Swamp,Hunt the Gypceros,1400z,2500z,Deliver Rough Gray Crystal (灰水晶の原石): X1,Hunt 15 Hornetaur,800z,300z
+34,1,The runaway poisonous bird of the swamp,50,Breeding,Swamp,Hunt the Gypceros,1400z,2800z,Deliver Rough Gray Crystal (灰水晶の原石): X1,Break the Gypceros' Crest,800z,600z
+35,1,The runnaway purple poison bird,50,Cold,Swamp,Hunt the Purple Gypceros,1400z,1400z,No Sub,No Sub,0z,0z
+36,2,A gluttonous freak,50,Warm,Swamp,Hunt the Congalala,2000z,2800z,Hunt 4 Conga,Hunt 2 Conga,400z,400z
+37,2,A gluttonous freak,50,Breeding,Swamp,Hunt the Congalala,2000z,2800z,Deliver Khezu Icecream (フルベビアイス): X2,Hunt 3 Bullfango,500z,300z
+38,2,White shadow crawling in the dark,50,Cold,Swamp,Hunt the Khezu,2200z,2200z,No Sub,No Sub,0z,0z
+39,2,Queen of the Swamp,50,Cold,Swamp,Hunt the Rathian,2200z,3650z,Deliver Wyvern Tear (竜のナミダ): X1,Deliver Rare Mushroom (厳選キノコ): X2,850z,600z
+40,3,Sickle lurking in the swamp,50,Warm,Swamp,Hunt the Shogun Ceanataur,2800z,4900z,Break a Shogun's Claw,Deliver Gold Fish (黄金魚): X5,1000z,1100z
+41,3,Sickle lurking in the swamp,50,Breeding,Swamp,Hunt the Shogun Ceanataur,2800z,4000z,Deliver Rough Gray Crystal (灰水晶の原石): X1,Deliver Secret Pouch (秘密のポーチ): X3,800z,400z
+42,3,Almighty Black Armor,50,Breeding,Swamp,Hunt the Black Gravios,3200z,3200z,No Sub,No Sub,0z,0z
+43,4,Silent,50,Warm,Swamp,Slay the Chameleos,3600z,3600z,No Sub,No Sub,0z,0z
+44,4,Silent,50,Warm,Swamp,Slay the Chameleos,3600z,3600z,No Sub,No Sub,0z,0z
+45,4,Dragon King of the Flames Teostra,50,Warm,Swamp,Slay the Teostra,3800z,3800z,No Sub,No Sub,0z,0z
+46,1,Hunting in the coldest places,50,Warm,Snowy Mountains,Hunt the Bulldrome,700z,1100z,Hunt 4 Popo,No Sub,400z,0z
+47,2,White shadow crawling in the dark,50,Breeding,Snowy Mountains,Hunt the Khezu,2200z,3500z,Deliver Khezu Icecream (フルベビアイス): X2,Deliver Anteka Horn (ガウシカの角): X5,500z,800z
+48,2,Red shadow crawling in the snowy field,50,Warm,Snowy Mountains,Hunt the Red Khezu,2200z,2200z,No Sub,No Sub,0z,0z
+49,3,Leader of the fanged pack,50,Warm,Snowy Mountains,Hunt the Blangonga,2400z,3600z,Hunt 6 Blango,Hunt 3 Blango,600z,600z
+50,3,WLeader of the fanged pack,50,Breeding,Snowy Mountains,Hunt the Blangonga,2400z,3800z,Deliver Carnivore Egg (肉食竜の卵): X2,Hunt 5 Giaprey,1000z,400z
+51,4,Ghost running on the snowy fields,50,Warm,Snowy Mountains,Slay the Kirin,3400z,3400z,No Sub,No Sub,0z,0z
+52,4,The Summoner of the Snow Storm,50,Warm,Snowy Mountains,Slay the Kushala Daora,3600z,3600z,No Sub,No Sub,0z,0z
+53,1,Poison and more Poison,50,Warm,Volcano,Hunt the Iodrome,900z,1600z,Hunt 10 Ioprey,No Sub,700z,0z
+54,1,Trap lurking in the rocks,50,Warm,Volcano,Hunt the Basarios,1600z,2850z,Deliver Coal (燃石炭): X8,Hunt 10 Vespoid,1050z,200z
+55,1,Trap lurking in the rocks,50,Breeding,Volcano,Hunt the Basarios,1600z,3350z,Deliver Coal (燃石炭): X8,Break the Basarios' Chest,1050z,700z
+56,1,Sickle running through Heaven and Earth,50,Cold,Volcano,Hunt the Shogun Ceanataur,3200z,4500z,Hunt 3 Remobra,Deliver Secret Pouch (秘密のポーチ): X3,900z,400z
+57,3,Sickle running through Heaven and Earth,50,Breeding,Volcano,Hunt the Shogun Ceanataur,2800z,4600z,Break a Shogun's Claw,Hunt 4 Ceanataur,1000z,800z
+58,3,Champion of ignition,50,Cold,Volcano,Hunt the Gravios,3200z,7200z,Deliver Firecell Stone (火薬岩): X2,Deliver Firecell Stone (火薬岩): X1,2000z,2000z
+59,3,Subspecies wearing black armor,50,Warm,Volcano,Hunt the Black Gravios,3200z,3200z,No Sub,No Sub,0z,0z
+60,4,King of Flames,50,Warm,Volcano,Slay the Teostra,3800z,3800z,No Sub,No Sub,0z,0z
+61,4,Princess of Flames,50,Warm,Volcano,Slay the Lunastra,3800z,3800z,No Sub,No Sub,0z,0z
+62,2,The land where the king of the skies dwells,50,Warm,Forest and Hills,Hunt the Rathalos,3400z,5900z,Cut off the Rathalos' tail,Hunt 2 Shakalaka,1000z,1500z
+63,2,Roar of the Azure Wyvern,50,Cold,Forest and Hills,Hunt the Azure Rathalos,3400z,3400z,No Sub,No Sub,0z,0z
+64,2,King of the Skies and Queen of the Land,50,Breeding,Forest and Hills,Hunt the Rathalos,3400z,6600z,Hunt the Rathian,Deliver Wyvern Egg (飛竜の卵): X1,2200z,1000z
+65,4,The Silent Dragon,50,Warm,Forest and Hills,Slay the Chameleos,3600z,3600z,No Sub,No Sub,0z,0z
+66,3,Wyvern's Lair,50,Breeding,Tower,Hunt the Azure Rathalos,3400z,6800z,Hunt the Rathalos,No Sub,3400z,0z
+67,4,Lightning striking the Old Tower,50,Warm,Tower,Slay the Kirin,3400z,3400z,No Sub,No Sub,0z,0z
+68,4,The Tower of the Flame Princess Dragon,50,Warm,Tower,Slay the Lunastra,3800z,3800z,No Sub,No Sub,0z,0z
