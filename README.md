@@ -56,6 +56,6 @@
 
 ![Sem título](https://user-images.githubusercontent.com/75986085/148657904-3022579e-3ff2-412c-b1f0-25730263a096.png)
 
-<p>List of all itens</p>
+<p>List of all itens!</p>
 
 ![Sem título](https://user-images.githubusercontent.com/75986085/148657954-296f99ac-1147-48aa-8f38-88773bd937cd.png)
